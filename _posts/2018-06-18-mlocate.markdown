@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "mlocate tool - search-everything for linux"
+date:   2018-06-06 00:00:00 +0100
+categories: linux bash
+---
+
+I was long looking for a tool that looks like [Search everything][search-everything]
+
+So the tool is called `mlocate`.
+
+You would need to run the following to re-index files before doing search:
+```bash
+/etc/cron.daily/mlocate
+```
+
+Search for files using
+```locate
+locate <file>
+```
+
+I found it helpful while using docker (without mounting temporary volumes).
+
+Kudos to `Vaclav` for showing me this tool.
+
+
+[search-everything]: https://www.voidtools.com/
