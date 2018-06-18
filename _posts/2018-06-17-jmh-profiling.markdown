@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "After Profiling is done or JMH Microbenchmark in action"
-date:   2018-06-08 10:00:00 +0200
 tags: [java, performance, jmh]
 categories: performance
 ---

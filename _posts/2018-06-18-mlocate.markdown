@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "mlocate tool - search-everything for linux"
-date:   2018-06-06 00:00:00 +0100
-categories: linux bash
+tags: [linux,bash,tools]
+categories: tools
 ---
 
 I was long looking for a tool that looks like [Search everything][search-everything]
@@ -12,6 +12,8 @@ So the tool is called `mlocate`.
 You would need to run the following to re-index files before doing search:
 ```bash
 /etc/cron.daily/mlocate
+#or 
+updatedb
 ```
 
 Search for files using
