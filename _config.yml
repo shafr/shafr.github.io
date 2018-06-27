@@ -28,6 +28,7 @@ markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 show_downloads: false
 show_github_badge: false
