@@ -8,6 +8,7 @@ categories: docker
 # Docker for Windows Server Cheatsheet
 
 ## Below are some commands that migth be usefull for docker image creator:
+
 | Decription                                 | Command Syntax                                                    |
 | ------------------------------------------ | ----------------------------------------------------------------- |
 | Download file                              | Invoke-WebRequest <URL> -OutFile <path>                           |
@@ -24,7 +25,8 @@ categories: docker
 | Install service / feature (windows server) | Install-WindowsFeature -ConfigurationFilePath c:\temp\appInit.xml |
 | Stop / Start service                       | Stop-Service / Start-Service -Name WMSVC                          |
 | Start process                              | & "C:/Windows/System32/iisreset" /restart                         |
-|                                            |                                                                   |
+
+# Here are some usefull code snippets:
 
 ## Clean code
 Remember that you can create functions in powershell and keep code clean:
@@ -42,8 +44,6 @@ function copyFilledDb {
 initDbWithBasicValues
 copyFilledDb
 ```
-
-# Also I would like to mention some useful snippets:
 
 ## Wait for server restart
 ```powershell
@@ -84,7 +84,7 @@ $content = $content -Replace '#original', "#newvalue"
 $content | Out-File -Encoding UTF8 newPath
 ```
 
-## Download Huge file
+## Download Huge file (it will take forever otherwise)
 ```powershell
 # Unless we silence here Download progress it would pause every second for no reason
 $ProgressPreference = "SilentlyContinue"
