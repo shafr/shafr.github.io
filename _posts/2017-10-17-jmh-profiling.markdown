@@ -66,7 +66,12 @@ public List<String> method3() throws IOException {
 }
 ```
 
-The answer is - __JMH__
+The answer is - [__JMH__][jmh-original-site]
+
+# What is JMH
+JMH is micro performnace test framework that allows you to get performance of test methods instead of whole applications.
+
+# Example of test definition
 
 # Here is results from profiling execution:
 ```
@@ -93,3 +98,4 @@ There are also some goodies that can be used with JMH:
 
 [gradle-plugin]: https://github.com/melix/jmh-gradle-plugin
 [teamcity-plugin]: https://github.com/presidentio/teamcity-plugin-jmh
+[jmh-original-site]: http://openjdk.java.net/projects/code-tools/jmh/
