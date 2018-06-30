@@ -34,3 +34,5 @@ gem 'jekyll-theme-hacker', '~> 0.1.1'
 gem "rouge"
 
 gem "github-pages", group: :jekyll_plugins
+
+gem 'jekyll-asciinema'
