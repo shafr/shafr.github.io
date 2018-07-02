@@ -23,7 +23,8 @@ Intercept is command line tool that allows you to map buttons on `specific` keyb
 The sequence is very simple - you click any button on addtional keyboard and then you map action to that combination and name it.
 
 ## See short screencast on CLI - how to display & add commands:
-{% asciicast 189379 %}
+
+<script src="https://asciinema.org/a/189379.js" id="asciicast-189379" async></script>
 
 ## Links on some of chinese Numpad keyboards:
 

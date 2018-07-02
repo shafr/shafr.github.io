@@ -20,7 +20,7 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-asciinema', '~> 0.2.0'
+  gem "github-pages"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -32,5 +32,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'jekyll-theme-hacker', '~> 0.1.1'
 
 gem "rouge"
-
-gem "github-pages", group: :jekyll_plugins
