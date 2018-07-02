@@ -31,4 +31,12 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'jekyll-theme-hacker', '~> 0.1.1'
 
+<<<<<<< HEAD
 gem "rouge"
+=======
+gem "rouge"
+
+gem "github-pages", group: :jekyll_plugins
+
+gem 'jekyll-asciinema'
+>>>>>>> 6e6413b83d9ce4d7e51d96bf6ce118c0750ba78d
