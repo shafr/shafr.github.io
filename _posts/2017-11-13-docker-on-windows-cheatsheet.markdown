@@ -9,6 +9,8 @@ categories: docker
 
 ## Below are some commands that migth be usefull for docker image creator:
 
+Don't forget that windows multiline commands can be separated by `\` symbol in dockerfile and `^` in powershell/cmd file.
+
 | Decription                                 | Command Syntax                                                    |
 | ------------------------------------------ | ----------------------------------------------------------------- |
 | Download file                              | Invoke-WebRequest <URL> -OutFile <path>                           |
