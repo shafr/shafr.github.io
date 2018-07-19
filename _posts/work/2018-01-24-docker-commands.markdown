@@ -5,7 +5,7 @@ tags: [docker, bash]
 categories: docker
 ---
 
-### Just a small set of Docker commands that i'm often using for images maintenance:
+### Just a small set of Docker commands that I'm often using for images maintenance:
 
 Override entry point for docker image
 ```bash

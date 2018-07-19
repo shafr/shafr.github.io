@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What i've learned from (preparing to) OCA exam"
+title:  "What I've learned from (preparing to) OCA exam"
 tags: [java, exams]
 categories: java
 ---
