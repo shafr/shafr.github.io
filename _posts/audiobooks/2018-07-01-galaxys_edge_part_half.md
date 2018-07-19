@@ -1,11 +1,13 @@
 ---
 layout: audiobook
 title:  "Galaxy's Edge Book 0.5 - Tin Man"
-By: ["Nick Cole", "Jason Anspach"]
-Narrator: ["R.C. Bray"]
+authors: ["Nick Cole", "Jason Anspach"]
+narrator: ["R.C. Bray"]
 tags: ["sci-fi", "action", "adventure"]
 length: 52m
 categories: audiobooks
+image: /assets/audiobooks/galaxy_edge_0.5.jpg
+details_url: https://www.audible.com/pd/Sci-Fi-Fantasy/Galaxys-Edge-Part-II-Audiobook/B07D3C3GJT
 ---
 
 This one is kind of short story about robot who gave his life for humans. 
