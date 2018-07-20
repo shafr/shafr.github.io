@@ -6,7 +6,7 @@ narrator: ["R.C. Bray"]
 tags: ["sci-fi", "action", "adventure"]
 length: 15h 23m
 categories: audiobooks
-image: https://m.media-amazon.com/images/I/61a5aWth5XL._SL500_.jpg
+image: /assets/audiobooks/galaxy_edge_2.jpg
 details_url: https://www.audible.com/pd/Sci-Fi-Fantasy/Galaxys-Edge-Part-II-Audiobook/B07D3C3GJT
 ---
 

@@ -5,6 +5,7 @@ authors: ["Nick Cole", "Jason Anspach"]
 narrator: ["R.C. Bray"]
 tags: ["sci-fi", "action", "adventure"]
 length: 52m
+released: 01-01-2001
 categories: audiobooks
 image: /assets/audiobooks/galaxy_edge_0.5.jpg
 details_url: https://www.audible.com/pd/Sci-Fi-Fantasy/Galaxys-Edge-Part-II-Audiobook/B07D3C3GJT
@@ -20,4 +21,4 @@ Pros:
 * Interesting storryteling
 
 Cons:
-* Short
+* Very Short
