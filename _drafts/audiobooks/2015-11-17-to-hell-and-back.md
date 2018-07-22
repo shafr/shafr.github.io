@@ -4,6 +4,7 @@ title:  "To Hell and Back: Europe, 1914-1949"
 authors: ["Ian Kershaw"]
 narrator: ["Leighton Pugh"]
 tags: ["historical"]
+publisher: ["Recorded Books"]
 length: 26h 43m
 categories: audiobooks
 image: /assets/audiobooks/to_hell_and_back.jpg
