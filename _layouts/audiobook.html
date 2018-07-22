@@ -2,12 +2,11 @@
 layout: default
 ---
 
-<small>Wrote by: <em>{{ page.authors | join: "</em>,<em>" }}</em></small><br>
-<small>Narrator: {{ page.narrator }}</small><br>
-<small>Duration: {{ page.length }}</small><br>
-<small>URL: {{ page.details_url }}</small><br>
+<small><b>Authors:</b> <em>{{ page.authors | join: "</em>, <em>" }}</em></small><br>
+<small><b>Narrator:</b> {{ page.narrator }}</small><br>
+<small><b>Duration:</b> {{ page.length }}</small><br>
 
-<img src="{{ page.image }}" alt="Audiobook Icon" width="250" height="250" />
+<a href="{{ page.details_url }}"><img src="{{ page.image }}" width="250" height="250"/></a>
 
 <h1>{{ page.title }}</h1>
 
