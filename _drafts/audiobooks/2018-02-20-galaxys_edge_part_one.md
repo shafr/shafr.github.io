@@ -4,6 +4,7 @@ title:  "Galaxy's Edge (Book 1, 2)"
 authors: ["Nick Cole", "Jason Anspach"]
 narrator: ["R.C. Bray"]
 tags: ["sci-fi", "action", "adventure"]
+publisher: ["Podium Publishing"]
 length: 17h 21m
 released: 20-02-18
 categories: audiobooks

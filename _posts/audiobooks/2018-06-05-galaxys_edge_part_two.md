@@ -4,7 +4,7 @@ title:  "Galaxy's Edge, Part II (Books 3,4)"
 authors: ["Nick Cole", "Jason Anspach"]
 narrator: ["R.C. Bray"]
 tags: ["sci-fi", "action", "adventure"]
-publisher: [""]
+publisher: ["Podium Publishing"]
 length: 15h 23m
 categories: audiobooks
 image: /assets/audiobooks/galaxy_edge_2.jpg
