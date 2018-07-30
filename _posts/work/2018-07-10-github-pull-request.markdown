@@ -2,7 +2,7 @@
 layout: post
 title:  "Git merge can be hard"
 tags: [github, java]
-categories: git
+categories: work
 ---
 
 So our git repository is implemented in a way that commits are squashed during pull request merge.

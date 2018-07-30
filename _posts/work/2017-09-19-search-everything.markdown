@@ -2,7 +2,7 @@
 layout: post
 title:  "Search everything - searching in Windows without indexing"
 tags: [windows, tools]
-categories: tools
+categories: work
 ---
 
 Unlike Windows search - __search everything__ does not need to spend time indexing. It takes only few seconds to scan NTFS drive header and it's ready to search!

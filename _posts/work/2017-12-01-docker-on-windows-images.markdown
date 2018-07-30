@@ -2,7 +2,7 @@
 layout: post
 title:  "Few words about Windows Docker images creation process"
 tags: [windows, docker]
-categories: docker
+categories: work
 ---
 
 I had a 'luck' of working with Windows Containers aka native Docker for Windows. 

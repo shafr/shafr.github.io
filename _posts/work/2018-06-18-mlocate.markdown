@@ -2,7 +2,7 @@
 layout: post
 title:  "mlocate tool - search-everything for linux"
 tags: [linux,bash,tools]
-categories: tools
+categories: work
 ---
 
 I was long looking for a tool that looks like [Search everything][search-everything]

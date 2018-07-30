@@ -2,7 +2,7 @@
 layout: post
 title:  "Choosing tablet from china (Summer 2018)"
 tags: [tablet, android]
-categories: hardware
+categories: life
 ---
 
 

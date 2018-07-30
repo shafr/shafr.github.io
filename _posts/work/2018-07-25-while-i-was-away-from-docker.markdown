@@ -2,7 +2,7 @@
 layout: post
 title:  "While I was away from Docker"
 tags: [docker]
-categories: docker
+categories: work
 ---
 
 During last year there were few major features that I've  missed and just found out in a hard way.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mapping Actions to a separate keyboard"
 tags: [keyboard, intercept, keybindings, productivity]
-categories: hardware
+categories: work
 ---
 
 ## Mapping

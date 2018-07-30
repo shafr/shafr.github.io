@@ -2,7 +2,7 @@
 layout: post
 title:  "Downloading / Uploading files to Docker and Openshift containers"
 tags: [docker, openshift, bash]
-categories: docker
+categories: work
 ---
 
 Oftentimes there is need to copy files from Openshift / Docker machine. 

@@ -3,7 +3,7 @@ layout: post
 permalink: day-to-day-apps
 title:  "Applications that I use (almost) every day"
 tags: [windows, productivity]
-categories: productivity
+categories: work
 ---
 
 TODO - create a permalink

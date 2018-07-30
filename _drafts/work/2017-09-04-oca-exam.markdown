@@ -2,7 +2,7 @@
 layout: post
 title:  "What I've learned from (preparing to) OCA exam"
 tags: [java, exams]
-categories: java
+categories: work
 ---
 
 Pretty much everything is straightforward for this one, but there are few things that caught me off guard.

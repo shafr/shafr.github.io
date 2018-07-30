@@ -2,7 +2,7 @@
 layout: post
 title:  "Windows docker images creation goodies"
 tags: [windows, docker, powershell]
-categories: docker
+categories: work
 ---
 
 # Docker for Windows Server Cheatsheet

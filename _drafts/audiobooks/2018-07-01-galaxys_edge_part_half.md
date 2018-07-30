@@ -6,7 +6,6 @@ narrator: ["R.C. Bray"]
 tags: ["sci-fi", "action", "adventure"]
 publisher: ["Podium Publishing"]
 length: 52m
-released: 01-01-2001
 categories: audiobooks
 image: /assets/audiobooks/galaxy_edge_0.5.jpg
 details_url: https://www.audible.com/series?asin=B079YXK1GL

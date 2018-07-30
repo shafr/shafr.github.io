@@ -2,7 +2,7 @@
 layout: post
 title:  "After Profiling is done or JMH Microbenchmark in action"
 tags: [java, performance, jmh]
-categories: performance
+categories: work
 ---
 
 Which method is faster, when reading single 5mb file?

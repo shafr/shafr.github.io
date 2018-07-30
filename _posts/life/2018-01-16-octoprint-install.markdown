@@ -2,7 +2,7 @@
 layout: post
 title:  "Octoprint on OrangePi configuration"
 tags: [octoprint]
-categories: 3D
+categories: life
 ---
 
 # How to finish `octoprint` installation on Orange PI or whatever PI

@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker - usefull commands for managing containers"
 tags: [docker, bash]
-categories: docker
+categories: work
 ---
 
 ### Just a small set of Docker commands that I'm often using for images maintenance:

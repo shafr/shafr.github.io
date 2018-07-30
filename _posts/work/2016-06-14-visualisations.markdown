@@ -2,7 +2,7 @@
 layout: post
 title:  "DIY Visualisations with Gnuplot"
 tags: [gnuplot, visualisation]
-categories: visualisation
+categories: work
 ---
 
 Way way back when we did not have budget for profilers, but we had to do some stress / performance testing and do estimations. (Actually we've bought JProfiler license, but it was able to work only with 1 JVM).
