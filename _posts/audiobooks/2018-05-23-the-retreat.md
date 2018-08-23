@@ -7,7 +7,7 @@ tags: ["horror", "military"]
 publisher: ["Blue Heron Audio"]
 length: 14h 05m
 categories: audiobooks
-image: /assets/audiobooks/the_war_of_the_worlds.jpg
+image: /assets/audiobooks/retreat.jpg
 details_url: https://www.audible.com/pd/Mysteries-Thrillers/The-Retreat-Series-Audiobook/B07D7J53GG
 ---
 
