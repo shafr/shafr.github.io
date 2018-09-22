@@ -35,6 +35,5 @@ Every time someone asks me why if I have done something useful, I usualy say - a
 
 | Title             | Example1                                  | Example2                                  |
 | ----------------- | ----------------------------------------- | ----------------------------------------- |
-| Shoe box pin      | ![](/assets/3dprint/shoeboxpin1.jpg)      | ![](/assets/3dprint/shoeboxpin2.jpg)      |
 | Thread saver      | ![](/assets/3dprint/threadsaver.jpg)      |                                           |
 | Oil bottle holder | ![](/assets/3dprint/oitbottleholder1.jpg) | ![](/assets/3dprint/oitbottleholder2.jpg) |
