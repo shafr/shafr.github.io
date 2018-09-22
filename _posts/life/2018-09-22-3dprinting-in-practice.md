@@ -8,14 +8,17 @@ categories: work
 Every time someone asks me why if I have done something useful, I usualy say - a lot. Here is an actual list of things.
 
 # Things
-| Title        | Example1                              | Example2                              |
-| ------------ | ------------------------------------- | ------------------------------------- |
-| Camera Box   | ![](/assets/3dprint/camerabox1.jpg)   |                                       |
-| Camera Case  | ![](/assets/3dprint/cameracase1.jpg)  | ![](/assets/3dprint/cameracase2.jpg)  |
-| Camera Mount | ![](/assets/3dprint/cameramount1.jpg) | ![](/assets/3dprint/cameramount2.jpg) |
-| USB Holder   | ![](/assets/3dprint/usbholder1.jpg)   | ![](/assets/3dprint/usbholder2.jpg)   |
+
+| Title           | Example1                                 | Example2                                 |
+| --------------- | ---------------------------------------- | ---------------------------------------- |
+| Camera Box      | ![](/assets/3dprint/camerabox1.jpg)      |                                          |
+| Camera Case     | ![](/assets/3dprint/cameracase1.jpg)     | ![](/assets/3dprint/cameracase2.jpg)     |
+| Camera Mount    | ![](/assets/3dprint/cameramount1.jpg)    | ![](/assets/3dprint/cameramount2.jpg)    |
+| USB Holder      | ![](/assets/3dprint/usbholder1.jpg)      | ![](/assets/3dprint/usbholder2.jpg)      |
+| Headphone stand | ![](/assets/3dprint/headphonestand1.jpg) | ![](/assets/3dprint/headphonestand2.jpg) |
 
 # DIY Stuff
+
 | Title       | Example1                             | Example2                            |
 | ----------- | ------------------------------------ | ----------------------------------- |
 | PCB Station | ![](/assets/3dprint/pcbstation1.jpg) |                                     |
@@ -29,6 +32,7 @@ Every time someone asks me why if I have done something useful, I usualy say - a
 | Dishwasher pipe adapter | ![](/assets/3dprint/pipe1.jpg)       | ![](/assets/3dprint/pipe2.jpg)       |
 
 # Things for my wife
+
 | Title             | Example1                                  | Example2                                  |
 | ----------------- | ----------------------------------------- | ----------------------------------------- |
 | Shoe box pin      | ![](/assets/3dprint/shoeboxpin1.jpg)      | ![](/assets/3dprint/shoeboxpin2.jpg)      |
