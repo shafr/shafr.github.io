@@ -8,10 +8,12 @@ comments: true
 
 {{content}}
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% if comments == true %}
+  {% include disqus.html %}
+{% else %}
+  <H1>NO COMMENTS</H1>
 {% endif %}
 
-{% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
