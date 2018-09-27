@@ -8,11 +8,7 @@ comments: true
 
 {{content}}
 
-{% if comments == true %}
   {% include disqus.html %}
-{% else %}
-  <H1>NO COMMENTS</H1>
-{% endif %}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
