@@ -16,6 +16,7 @@ Every time someone asks me why if I have done something useful, I usualy say - a
 | Camera Mount    | ![](/assets/3dprint/cameramount1.jpg)    | ![](/assets/3dprint/cameramount2.jpg)    |
 | USB Holder      | ![](/assets/3dprint/usbholder1.jpg)      | ![](/assets/3dprint/usbholder2.jpg)      |
 | Headphone stand | ![](/assets/3dprint/headphonestand1.jpg) | ![](/assets/3dprint/headphonestand2.jpg) |
+| Backpack mount  | ![](/assets/3dprint/camerashouldermount.jpg) |                                      |
 
 # DIY Stuff
 
@@ -23,6 +24,7 @@ Every time someone asks me why if I have done something useful, I usualy say - a
 | ----------- | ------------------------------------ | ----------------------------------- |
 | PCB Station | ![](/assets/3dprint/pcbstation1.jpg) |                                     |
 | Third hand  | ![](/assets/3dprint/thirdhand1.jpg)  | ![](/assets/3dprint/thirdhand2.jpg) |
+| Bridge Lamp | ![](/assets/3dprint/bridgelamp.jpg)  |                                     |
 
 # Household things:
 
