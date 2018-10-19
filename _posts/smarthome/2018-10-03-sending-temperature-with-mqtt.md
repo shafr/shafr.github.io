@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sending Temperature from RPI or OrangePI with MQTT and Mosquitto"
-tags: [mqtt, smart home, Mosquitto]
+tags: [mqtt, smart home, mosquitto]
 categories: life
 ---
 
@@ -28,7 +28,7 @@ mosquitto_pub -d -h mosquitto_host -u user_name -P password -t topic/topic -m ${
 Now is a good time to test if scripts works and check MQTT queue for messages.
 
 
-### Create service inside /etc/systemd/system/mqtt_temp.service
+### Create service inside /etc/systemd/system/publish_temp.service
 
 ```
 [Unit]
@@ -41,7 +41,7 @@ WorkingDirectory=/opt
 ExecStart=/opt/publish_temp.sh
 ```
 
-### Create timer inside /etc/systemd/system/mqtt_temp.timer
+### Create timer inside /etc/systemd/system/publish_temp.timer
 ```
 [Unit]
 Description=Execute task every minute
