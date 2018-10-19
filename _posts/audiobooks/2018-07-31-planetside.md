@@ -9,6 +9,7 @@ length: 8h 38m
 categories: audiobooks
 image: /assets/audiobooks/crash_dive.jpg
 details_url: https://www.audible.com/pd/Fiction/Crash-Dive-Omnibus-Books-1-3-Audiobook/B07BTR25KQ
+rating: 4
 ---
 
 5 Hours in - great book. There were very few "Deus ex Machina" places.
