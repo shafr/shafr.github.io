@@ -2,7 +2,7 @@
 layout: post
 title:  "3D printing in practice"
 tags: [3dprint, aneta8]
-categories: work
+categories: life
 ---
 
 Every time someone asks me why if I have done something useful, I usualy say - a lot. Here is an actual list of things.
