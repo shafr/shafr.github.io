@@ -10,11 +10,9 @@ It's not so obvious as it may seem to be.
 
 Here are some steps for that:
 
-
 * Get message from DHL. Choose - I want to do a clearance myself. You have 10 days for that or they would charge you for storage of the goods.
 * Get PDF's from them and print them.
-* If possible - buy JSD forms (you cannot print them or get anywhere online) and fill them
-Check out CEVT address below or you can also buy JSD forms inside PSTCLC company inside customs building.
+* If possible - buy JSD forms (you cannot print them or get anywhere online) and fill them. Check out CEVT address below or you can also buy JSD forms inside PSTCLC company inside customs building.
 * Fill out the forms before going there
 * Go to address of Border Office.
 * Give officers set of documents and wait for them to process the data around ~30 min
@@ -59,8 +57,6 @@ Check out CEVT address below or you can also buy JSD forms inside PSTCLC company
 26. Same as 42
 27. C - Surname and signature
 28. Date and signature
-
-
 
 
 # Addresses:
