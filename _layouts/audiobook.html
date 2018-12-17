@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <small><b>Authors:</b> <em>{{ page.authors | join: "</em>, <em>" }}</em></small><br>
@@ -11,6 +12,8 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {{content}}
+
+{% include disqus.html %}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>

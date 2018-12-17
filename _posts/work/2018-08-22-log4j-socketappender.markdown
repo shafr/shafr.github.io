@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Log4j SocketAppender"
-tags: [gnuplot, visualisation]
+title:  "Log4j -> java Logging -> GrayLog"
+tags: [java, logging]
 categories: work
 ---
 

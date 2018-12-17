@@ -48,3 +48,6 @@ show_drafts: false
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+disqus:
+    shortname: shafr-github-io

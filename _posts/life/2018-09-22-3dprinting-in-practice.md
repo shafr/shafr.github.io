@@ -2,7 +2,7 @@
 layout: post
 title:  "3D printing in practice"
 tags: [3dprint, aneta8]
-categories: work
+categories: life
 ---
 
 Every time someone asks me why if I have done something useful, I usualy say - a lot. Here is an actual list of things.
@@ -17,6 +17,7 @@ Every time someone asks me why if I have done something useful, I usualy say - a
 | USB Holder      | ![](/assets/3dprint/usbholder1.jpg)      | ![](/assets/3dprint/usbholder2.jpg)      |
 | Headphone stand | ![](/assets/3dprint/headphonestand1.jpg) | ![](/assets/3dprint/headphonestand2.jpg) |
 | Backpack mount  | ![](/assets/3dprint/camerashouldermount.jpg) |                                      |
+| Watch stand     | ![](/assets/3dprint/watchstand.jpg)      |                                          |
 
 # DIY Stuff
 

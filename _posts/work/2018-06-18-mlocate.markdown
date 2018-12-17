@@ -21,6 +21,10 @@ Search for files using
 locate <file>
 ```
 
+__Note__ - that external drives (and mounted drives are not indexed). 
+You must update `/etc/updatedb.conf` file - remove `/media` path from PRUNEPATHS
+
+
 I found it helpful while using docker (without mounting temporary volumes).
 
 Kudos to `Vaclav` for showing me this tool.
