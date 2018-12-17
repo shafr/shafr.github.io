@@ -2,7 +2,7 @@
 layout: post
 title:  "Sending Temperature from RPI or OrangePI with MQTT and Mosquitto"
 tags: [mqtt, smart home, mosquitto]
-categories: life
+categories: smarthome
 ---
 
 So say you want to have temperature from your RPI devices shown on your MQTT dashboard. 
