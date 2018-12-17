@@ -1,0 +1,28 @@
+---
+layout: post
+title: Audiobooks
+permalink: /audiobooks/index.html
+description: "List of audiobooks that i've listened to"
+---
+
+{% for tag in site.categories %} 
+<ul class="post-list">
+{% assign pages_list = tag[1] %}  
+	{% for post in pages_list %}
+		{% if post.title != null %}
+			{% if group == null or group == "post.group" %}
+				{% if post.categories contains 'audiobooks' %}
+					<li>
+						<img src="{{ post.image }}" alt="Icon" width="100" height="100" />
+						<a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a>
+					</li>
+				{% endif %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+</ul>
+{% endfor %}
+
+<H1> Hold on there, i'm working on normal layout </H1>
