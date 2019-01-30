@@ -36,3 +36,8 @@ Now everyone in the book "shrugs" all the time, no more "he said nothing"'s here
 I've enjoyed this book - great plot twist, but it's kind of easy to guess from the beginning who's who. Also lots of violence.
 
 # Die Trying
+
+
+# Trip Wire
+Great narration by Dick Hill - enjoyed his impersonation of different people.
+Also great and (almost) unpredictable plot. As always some detective work, romance. Lee is following his book pattern. 
