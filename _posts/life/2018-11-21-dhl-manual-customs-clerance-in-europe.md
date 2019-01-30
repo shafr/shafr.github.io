@@ -21,12 +21,12 @@ Here are some steps for that:
 
 ### Checklist of required documents / things to come there with + fields where to put them:
 * Passport or Obcanka
-* EORI - special code which you would use for all shipments. Is generated on (customs website)[EORI]
+* EORI - special code which you would use for all shipments. Is generated on [customs website][EORI]
 * DHL papers that you've printed
 * Printed bank account statement with spend sum
 * Printed page from shop showing price and list of goods if not provided by shop
-* Prepared (TARIC)[TARIC] code for the goods
-* Written down somewhere Exchange rate for the purchase month from (here)[EXCHANGE]
+* Prepared [TARIC][TARIC] code for the goods
+* Written down somewhere Exchange rate for the purchase month from [here][EXCHANGE]
 
 ### Fileds to fill (My default value)
 1. Store name, address.
@@ -103,6 +103,6 @@ Check out working hours before going there - they have very fancy timeline.
 http://www.kluvanek.cz/2016/08/jak-vyplnit-jsd/
 
 
-[EORI][https://www.celnisprava.cz/cz/aplikace/Stranky/eoriadhoc.aspx]
-[TARIC][http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp]
-[RATE][https://www.celnisprava.cz/cz/aplikace/Stranky/kurzy.aspx]
+[EORI]: https://www.celnisprava.cz/cz/aplikace/Stranky/eoriadhoc.aspx
+[TARIC]: http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp
+[RATE]: https://www.celnisprava.cz/cz/aplikace/Stranky/kurzy.aspx
