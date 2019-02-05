@@ -43,7 +43,12 @@ This tool allows you to launch any application by pressing `ALT+SPACE` key combi
 Also it allows to calculate stuff in the same small window
 
 
-### Process Explorer [Website][launchy-site]
+### Process Explorer [Website][process-explorer-site]
+The one and only task manager. Replaces default windows task manager or is used as standalone.
+
+__PROS:__
+* Shows processes in a tree as well as table - easy to see what had spawned what
+* Allows to check signatures for applications with virustotal
 
 
 ### Vivaldi Browser [Website][vivaldi-site]
@@ -116,3 +121,4 @@ __CONS:__
 [vivaldi-site]: https://vivaldi.com/
 [aimp-site]: http://www.aimp.ru/
 [sumatra-site]: https://www.sumatrapdfreader.org/free-pdf-reader.html
+[process-explorer-site]: https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
