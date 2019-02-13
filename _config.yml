@@ -49,5 +49,4 @@ show_drafts: false
 #   - vendor/gems/
 #   - vendor/ruby/
 
-disqus:
-    shortname: shafr-github-io
+talkyard_server_url: https://comments-for-shafr-github-io.talkyard.net/
