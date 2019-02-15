@@ -11,7 +11,7 @@ But I spend quite some time with `Smart Home`, so apparently I was looking in th
 After about 5 iterations trying to implement the hardware (mostly using opto-couplers to be on the safe side) I finally made working prototype. (NB: First check that provided prototype is working and then improve from that)
 
 ![DSC prototypes front]({{ "assets/2019-02-11/front.png" | absolute_url}})
-![DSC prototypes back] ({{ "assets/2018-02-11/back.png" | absolute_url}})
+![DSC prototypes back] ({{ "assets/2019-02-11/back.png" | absolute_url}})
 
 
 # Programming steps
