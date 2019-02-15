@@ -2,7 +2,7 @@
 layout: post
 title:  "DSC alarm with dscKeybus programming guide"
 tags: [alarm, smart-home]
-categories: life
+categories: smarthome
 ---
 
 I am person who is (was) very far from home-alarms and industrial hardware. 
