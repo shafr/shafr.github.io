@@ -12,7 +12,7 @@ After about 5 iterations trying to implement the hardware (mostly using opto-cou
 
 ![DSC prototypes front]({{ "assets/2019-02-11/front.png" | absolute_url}})
 
-![DSC prototypes back] ({{ "assets/2019-02-11/back.png" | absolute_url}})
+![DSC prototypes back]({{ "assets/2019-02-11/back.png" | absolute_url}})
 
 
 # Programming steps
