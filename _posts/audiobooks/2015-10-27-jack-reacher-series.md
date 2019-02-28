@@ -75,6 +75,21 @@ Quotes:
 # Trip Wire
 Great narration by Dick Hill - enjoyed his impersonation of different people.
 Also great and (almost) unpredictable plot. As always some detective work, romance. Lee is following his book pattern. 
+Cleaning blame for a a guy who died during Vietnamese wars and getting rid of credit crime lord in a nutshell.
+
+Quotes:
+* He had gone from being a big fish in a small pond to being nobody. From being a senior and valued member of a highly structured community to being just one of 270 million anonymous civilians. From being necessary and wanted to being one person too many. From being where someone told him to be every minute of every day to being confronted with three million square miles and maybe forty more years and no map and no schedule.
+* People live, and then they die, and as long as they do both things properly, there's nothing much to regret.
+* ... a dozen of his friends from the military police would come running. Two dozen. A hundred. All of them willing and anxious to repay his many kindnesses and favours which stretched right back through their whole careers.
+* Married officers with a family often bought a place, generally near their first service base or near some other location they imagined was going to be central to their lives, like West Point. They bought the place and usually left it empty while they lived overseas. The point was to have an anchor, somewhere identifiable they knew they would come back to when it was all over.
+* She paused and looked directly at Reacher. For a second he thought she had spotted some symptom he was displaying. Then he realized she was waiting for an introduction.
+* Like people she knew, lawyers or bankers, who had really wanted to be dancers or ballplayers. A dream from the past, unconnected with reality, but absolutely defining the identity of the person involved. A divorced thirty-year-old woman, who had wanted to be with Jack Reacher all along.
+* Bodyguarding was about defence. Start mixing offence in with it, and neither thing gets done properly.
+* She was not an unfit woman, but she always said I'm built for comfort, not for speed. 
+* He guessed these were middle-ranking people. A long way from the bottom, but nowhere near the top. In Army terms, these were the majors and the colonels. They were the civilian equivalents of himself
+* The whole point of drifting was happy passive acceptance of no alternatives. Having alternatives ruined it.
+*  He was a meticulous man, attentive to tiny detail as much in his ethics as in his professional speciality.
+
 
 # Echo Burning
 Another great book happening in Texas. Horses, ranches, pickups, immigrans, lots of stuff going on. Interesting book. Great narration by Dick Hill still.
@@ -100,3 +115,20 @@ Quotes:
 * Everybody who lives there comes from somewhere else. They're there for a reason, to study at the university or to work in the government. It's a transient place. It has a temporary, shifting population. You graduate, you leave. You get voted out, you go someplace else. You get rich, you move to Chevy Chase. You go broke, you go sleep in a park.
 * (ARMY) Some join because they need a job or want to learn a trade, some join because they want to shoot heavy weapons and blow things up. Some, like Reacher himself, join because it's preordained. But most join because they're looking for cohesion and trust and loyalty and camaraderie. They're looking for the brothers and the sisters and the parents they haven't got anywhere else.
 * The first Secret Service agents to arrive were the line-of-sight team. They had a large-scale city surveyor's map and a telescopic sight removed from a sniper rifle. One agent walked through every step that Armstrong was scheduled to take. Every separate pace he would stop and turn round and squint through the scope and call out every window and every rooftop he could see. Because if he could see a rooftop or a window, a potential marksman on that rooftop or in that window could see him. The agent with the map would identify the building concerned and check the scale and calculate the range. Anything under seven hundred feet he marked in black. .... He wrote checked with scope, clear daylight, 0845 hrs, all suspect locations recorded across the bottom of the map and signed his name and added the date. The agent with the scope countersigned and the map was rolled and stored in the back of a department Suburban, awaiting Froelich's arrival.
+
+# Persuader
+More undercover work for crime overlords on Reacher part.
+Great first chapter with twists. 
+Great parallel storytelling from two different time frames.
+I would say one of the best books from Lee Child. 5/5
+
+Quotes:
+* And I thought back to texts I had read from the British Army in India, during the Raj, at the height of their empire. Young subalterns trapped in junior ranks had their own mess. They would dine together in splendid dress uniforms and talk about their chances of promotion. But they had none, unless a superior officer died. Dead men’s shoes was the rule. So they would raise their crystal glasses of fine French wine and toast bloody wars and dread diseases, because a casualty further up the chain of command was their only way to get ahead. Brutal, but that’s how it’s always been, in the military.
+* There were rules back then, I guess, but there were no regulations yet. The notion of sexual harassment was slow coming to the army.
+* People who say no right away are usually lying. A truthful person is perfectly capable of saying no, but generally they stop and think about it first. And they add sorry or something like that. Maybe they come out with some questions of their own. It’s human nature. They say Sorry, no, why, what happened?
+* Revising objectives is smart because it stops you throwing good money after bad. He didn’t mean money in any literal sense. He meant manpower, resources, time, will, effort, energy. He used to contradict himself, too. Just as often he would say: Never ever get distracted from the exact job in hand. Of course, proverbs are like that generally. Too many cooks spoil the broth, many hands make light work, great minds think alike, fools never differ. But overall, after you canceled out a few layers of contradiction, Leon approved of revision. He approved of it big time. Mainly because revision was about thinking, and he figured thinking never hurt anybody
+* It’s easy enough to turn a car over. I’ve seen it done all over the world. You let the tires and the suspension help you. You rock it, and then you bounce it, and then you keep it going until it’s coming right up in the air, and then you time it just right and flip it all the way over.
+* Some cell phones I had seen signaled a voice mail message with a little pictogram of an envelope. Some used a little symbol made up of two small circles joined together by a bar at the bottom, like a reel-to-reel tape, which I thought was weird, because I guessed most cell phone users had never seen a reel-to-reel tape in their lives. And I was pretty sure that the cell phone companies didn’t record the messages themselves on reel-to-reel tape. I guessed they did it digitally, inert inside some kind of a solid-state circuit. But then, the signs at railroad crossings still show the sort of locomotive that Casey Jones would have been proud of.
+* Not long before that I had met a woman Air Force colonel who captained a B52 bomber and cruised the night skies with more explosive power aboard her single plane than all the bombs ever dropped in the whole of human history put together. I figured if she could be trusted with enough power to explode the planet, then Sergeant First Class Dominique Kohl could be trusted to figure out who she wanted to date.
+* But I wasn’t a guy who hijacked subordinates’ achievements in order to make myself look good. I never did that. If somebody performed well, did a good job, I was always happy to stand back and let them reap the rewards. It was a principle I adhered to throughout my career. I could always console myself by basking in their reflected glow. It was my company, after all. There was a certain amount of collective recognition.
+* “RPG means rocket propelled grenade,” he said. “In English,” I said. “In Russian it means Reaktivniy Protivotankovyi Granatomet, rocket anti-tank grenade launcher. But it uses a missile, not a grenade.”
