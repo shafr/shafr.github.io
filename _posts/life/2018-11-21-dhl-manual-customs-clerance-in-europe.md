@@ -28,36 +28,47 @@ Here are some steps for that:
 * Prepared [TARIC][TARIC] code for the goods
 * Written down somewhere Exchange rate for the purchase month from [here][EXCHANGE]
 
-### Fileds to fill (My default value)
-1. Store name, address.
-2. Number of pages (1)
-3. Number of packages (1)
-4. Your name
-5.  Under c. put EORI number
-6.  Country of origin (US)
-7.  Destination Country (CZ)
-8.  (0) - not sure why
-9.  XXX Doprava zahrnuta v cene
-10. USD Price
-11. Exchange rate (Check their for that month)
-12. (1) - most often
-13. Delivery type - airaplane (4)
-14. (3) 
-15. Goods description
-16. TARIC code
-17. Manufacturer's Country (USA)
-18. Weight (0.5)
-19. (100)
-20. (400 07) not sure
-21. Weight (0.5)
-22. Weight (0.5)
-23. Price of goods in package
-24. (1) not sure
-25. Write down on the right side (DPH-0)
-26. Same as 42
-27. C - Surname and signature
-28. Date and signature
+# Check list:
+* Check field 31. IF you have different type of goods that will need to fill out separate document `ID 24312` for each type of goods.
+* If you pay more then 22 EUR you will pay 15-22% tax
+* If you pay more than 150 EUR you will pay 3-11% tax 
+* Field 44 is very confusing.
 
+### Fileds to fill `document ID 14312` (My default values and hints)
+2. Store name, address.
+3. Number of pages (1 or more if you have different type of goods - ie. )
+5. Number of packages (1)
+6. 
+8. Your name
+14. Under c. put EORI number (see above)
+15. Country of origin (US)
+16. Manufacturer county (US)
+17. Destination Country (CZ)
+19. (0) - not sure why
+20. XXX | Doprava zahrnuta v cene | 1
+22. USD |  Price
+23. Exchange rate **For the month that you are applying declaration for**
+24. (1) - most often
+25. Delivery type - airaplane (4)
+26. (3)
+31. Goods description and count
+32. (1) - ???
+33. TARIC code
+34. Manufacturer's Country (USA)
+35. Weight (0.5)
+36. (100) - ???
+37. (400 C07) - not sure
+38. Weight (0.5)
+41. Price of goods in package
+43. (1) not sure
+44. Write down on the right side (DPH-0). Then in the left column cryptic numbers:
+```
+Y390 Y929 N380 -
+0048 Y800 N740 -
+Y900 Y940 PLATBA -
+Y032    
+```
+46e Same as 42
 
 # Addresses:
 All of this locations are about 10 minutes from each other (by car) and are outside of Prague.
