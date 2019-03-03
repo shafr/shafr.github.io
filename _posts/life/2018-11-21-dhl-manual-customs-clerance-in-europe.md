@@ -35,35 +35,35 @@ Here are some steps for that:
 * Field 44 is very confusing.
 
 ### Fileds to fill `document ID 14312` (My default values and hints)
-1.
+1. 
 2. Store name, address.
 3. Number of pages (1 or more if you have different type of goods - ie. )
-4.
+4. 
 5. Number of packages (1)
-6.
+6. 
 7. 
 8. Your name
-9.
-10.
-11.
-12.
-13.
+9. 
+10. 
+11. 
+12. 
+13. 
 14. Under c. put EORI number (see above)
 15. Country of origin (US)
 16. Manufacturer county (US)
 17. Destination Country (CZ)
 19. (0) - not sure why
 20. XXX | Doprava zahrnuta v cene | 1
-21.
+21. 
 22. USD |  Price
 23. Exchange rate **For the month that you are applying declaration for**
 24. (1) - most often
 25. Delivery type - airaplane (4)
 26. (3)
-27.
-28.
-29.
-30.
+27. 
+28. 
+29. 
+30. 
 31. Goods description and count
 32. (1) - ???
 33. TARIC code
@@ -72,10 +72,10 @@ Here are some steps for that:
 36. (100) - ???
 37. (400 C07) - not sure
 38. Weight (0.5)
-39.
-40.
+39. 
+40. 
 41. Price of goods in package
-42.add
+42. 
 43. (1) not sure
 44. Write down on the right side (DPH-0). Then in the left column cryptic numbers:
 ```
@@ -84,7 +84,7 @@ Y390 Y929 N380 -
 Y900 Y940 PLATBA -
 Y032    
 ```
-46e Same as 42
+46.  Same as 42
 
 # Addresses:
 All of this locations are about 10 minutes from each other (by car) and are outside of Prague.
