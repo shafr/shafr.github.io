@@ -53,9 +53,9 @@ Here are some steps for that:
 16. Manufacturer county (US)
 17. Destination Country (CZ)
 19. (0) - not sure why
-20. XXX | Doprava zahrnuta v cene | 1
+20. XXX / Doprava zahrnuta v cene / 1
 21. 
-22. USD |  Price
+22. USD / Price
 23. Exchange rate **For the month that you are applying declaration for**
 24. (1) - most often
 25. Delivery type - airaplane (4)
