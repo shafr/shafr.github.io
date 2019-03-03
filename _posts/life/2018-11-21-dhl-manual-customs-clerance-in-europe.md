@@ -52,6 +52,7 @@ Here are some steps for that:
 15. Country of origin (US)
 16. Manufacturer county (US)
 17. Destination Country (CZ)
+18.
 19. (0) - not sure why
 20. XXX / Doprava zahrnuta v cene / 1
 21. 
