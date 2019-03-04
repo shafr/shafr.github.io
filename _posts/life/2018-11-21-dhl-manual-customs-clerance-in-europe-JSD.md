@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Manual Customs Clearance in Czech republic / Prague"
-tags: [packages]
+title:  "Manual Customs Clearance in Czech republic / Prague (JSD)"
+tags: ["packages", "JSD"]
 categories: life
 ---
 
@@ -80,9 +80,9 @@ Here are some steps for that:
 43. (1) not sure
 44. Write down on the right side (DPH-0). Then in the left column cryptic numbers:
 ```
-Y390 Y929 N380 -
-0048 Y800 N740 -
-Y900 Y940 PLATBA -
+Y390 Y929 N380 - ( Payment confirmation - copy transaction number from you bank )
+0048 Y800 N740 - ( Shipment related - copy numbers under Barcode in your DHL papers) 
+Y900 Y940 PLATBA - (Day of payment - copy date from your bank or invoice)
 Y032    
 ```
 46.  Same as 42
