@@ -67,7 +67,7 @@ Here are some steps for that:
 30. 
 31. Goods description and count
 32. (1) - ???
-33. TARIC code
+33. TARIC code - 10 digits (Search for the most similar code on google with Taric tag)
 34. Manufacturer's Country (USA)
 35. Weight (0.5)
 36. (100) - ???
