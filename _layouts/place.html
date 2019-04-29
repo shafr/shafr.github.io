@@ -1,0 +1,16 @@
+---
+layout: default
+comments: true
+---
+
+<h1>{{ page.name }}</h1>
+
+<iframe src="https://www.google.com/maps/embed?{{ page.googlelink}}" width="600" height="450"></iframe>
+
+{{content}}
+
+{% include comments.html %}
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}

@@ -1,0 +1,25 @@
+---
+layout: post
+title: List of places around
+permalink: /places/index.html
+description: "List of places around"
+---
+
+{% for tag in site.categories %} 
+<ul class="post-list">
+{% assign pages_list = tag[1] %}  
+	{% for post in pages_list %}
+		{% if post.title != null %}
+			{% if group == null or group == "post.group" %}
+				{% if post.categories contains 'places' %}
+					<li>
+						<a href="{{ site.url }}{{ post.url }}">{{ post.name }} </a>
+					</li>
+				{% endif %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+</ul>
+{% endfor %}
