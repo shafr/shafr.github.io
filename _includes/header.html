@@ -1,9 +1,19 @@
 <link rel="stylesheet" href="/assets/css/header_links.css">
 
-<div class="links_container">
-    <div id="Work"> <a title="Work" href="{{ site.url}}{{ site.baseurl }}/index">Work</a> </div>
-    <div id="Life"> <a title="Life Relatd stuff" href="{{ site.url}}{{ site.baseurl }}/life">Life</a> </div>
-    <div id="Audiobooks"> <a title="Audiobooks that i've read" href="{{ site.url}}{{ site.baseurl }}/audiobooks">Audiobooks</a> </div>
-    <div id="Smart Home"> <a title="Smart Home" href="{{ site.url}}{{ site.baseurl }}/smarthome">Smart Home</a> </div>
-    <div id="Places"> <a title="Places" href="{{ site.url}}{{ site.baseurl }}/places">Places</a> </div>
-</div>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> 
+    <link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png">
+
+    <div class="links_container">
+        <div id="Work"> <a title="Work" href="{{ site.url}}{{ site.baseurl }}/index">Work</a> </div>
+        <div id="Life"> <a title="Life Relatd stuff" href="{{ site.url}}{{ site.baseurl }}/life">Life</a> </div>
+        <div id="Audiobooks"> <a title="Audiobooks that i've read" href="{{ site.url}}{{ site.baseurl }}/audiobooks">Audiobooks</a> </div>
+        <div id="Smart Home"> <a title="Smart Home" href="{{ site.url}}{{ site.baseurl }}/smarthome">Smart Home</a> </div>
+        <div id="Places"> <a title="Places" href="{{ site.url}}{{ site.baseurl }}/places">Places</a> </div>
+    </div>
+
+    {% seo %}
+</head>
