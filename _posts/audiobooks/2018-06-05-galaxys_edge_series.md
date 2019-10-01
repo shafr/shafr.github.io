@@ -11,24 +11,27 @@ image: /assets/audiobooks/galaxy_edge_1.jpg
 details_url: https://www.audible.com/pd/Sci-Fi-Fantasy/Galaxys-Edge-Audiobook/B079LRSMNN
 ---
 
-# Part 0.5 
+## Part 0.5 
+
 This one is kind of short story about robot who gave his life for humans. 
 Hate this. The movies from 50th about cyborgs and dilemma if robots have souls.
 But lots of action and details. 
 Kind of `Hacksaw Ridge` but with killing robot instead of pacifist human.
 
 Pros:
+
 * Solid action
 * Interesting storryteling
 
 Cons:
+
 * Very Short
 
-# Part I (17h 21m)
+## Part I (17h 21m)
 
 
 
-# Part II (Books 3,4) (15h 24m)
+## Part II (Books 3,4) (15h 24m)
 
 The second part is frankly kind of hit and miss. I'm not sure they knew where they were going - space combat, star-wars villains, hackers.
 
@@ -47,18 +50,20 @@ Or armor which does not protect from shots at all.
 Technology-wise looks like a 20th century with ships and pirates but re-skinned for future.
 
 Pros:
+
 * Both sides were shown - no one is good or bad, everyone has their reasons
 * Constant action
 * Belivable characters
 
 Cons: 
+
 * Un-killable heroes
 * Constant deus ex machinas which saves everyone at the last moment
 * Unanswered questions 
 * Useless and questionable technologies
 * Explosions in space, lots of them
 
-# Part Three (Books 5,6)
+## Part Three (Books 5,6)
 
 I'm really not sure about orgins of Galaxy's Edge, but it seems like they are trying to build universe more and more here.
 There are quite a few parallel plots going on, lot's of stuff not explained (like robot-race), savage wars, nether-ops, dark-ops, etc, that I feel more and more that I need a some wiki page along to understand what's going on.
@@ -77,8 +82,10 @@ I think the problem of this 9-part series of the books that you totally forget a
 
 >> To suggest otherwise, say in a whispered conversation in some darkened corridor on boarded destroyer with hope that the thrumming of sub-light engines kept one from being overheard - was career suicide. Because conversations, real conversations took two people. And in a cut-throat world of republic army, you didn't give an advantage over you, like the person on the other side of your conversation. Friendships were few and frail.
 
-# The imperor
+## The imperor
+
 Pros:
+
 * I really liked that they spend more time explaining the plot behind galaxy, savage wars, hyperspace drives.
 Awesome idea with the hyper-drives and colony ships.
 Finally we get to know about Rex, Goth Soles, and other guys.
@@ -89,10 +96,21 @@ You really wish to stop reading book few times, so much I was exausted and tired
 
 Rating: 4/5 for story.
 
-# Iron Wolfes
+## Iron Wolfes
+
 Parallel story about fighting squad on the edge of the galaxy.
 
 This series are now staring to be like `Romance novels` with simple or no major twists, just a small ammount of extra unviverse story, with forgettable characters, some ammount of romance, lots of shooting.
 
 Just a books for passing by while waiting for major releases.
 Rating: 3/5
+
+## Order of the Centurion
+
+Books that does not involve main characters here, trying to build up universe around here.
+
+Like `The Imperor` book, this one tries to introduce young senator `Oren Kar` (how is his name spelled?) and Point general that was helping dark ops and other Legion forces in the end of book 6.
+
+I feel like there is too much drama and "movie" like moments, deus-ex machinas, and twists just for the sake of being there. First books had less of those. Again using some weird formulas to build tension and explain plot.
+
+Rating 4/5
