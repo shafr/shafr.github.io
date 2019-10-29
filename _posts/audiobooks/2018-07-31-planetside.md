@@ -12,20 +12,20 @@ details_url: https://www.audible.com/pd/Planetside-Audiobook/B07DVV88RK
 rating: 4
 ---
 
-5 Hours in - great book. There were very few "Deus ex Machina" places.
-
 Perfect example of Sci-fi detective  as it should be - without annoyances.
 
 Great ammount of humor, not-a-superhero main character, cybernetics and technologies. 
 
 Lots of detective work. Lots of action. Nice plot.
 
-...
-
-Last hour or 30 minutes was just a drag, the author was just preparing readers (or listeners) for the sequel. 
+Last hour or 30 (or even 90) minutes was just a drag, the author was just preparing readers (or listeners) for the sequel. 
 
 Still - highly recommending this book.
 
+P.S. When I found out that second book was released, i've revisited this one. Still - great book, but I'm still sure that last segment was preparing us ... to nothing, since second book has almost nothing in common with first one.
+
+
+Quotes:
 
 >> Reacting means your enemy is dictating what you should do. And that is never good.
 
