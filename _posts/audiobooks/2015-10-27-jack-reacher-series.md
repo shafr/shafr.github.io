@@ -21,6 +21,9 @@ Skipped half of the book - just qoutes about how cool he is.
 # Second son
 This time Jack Reacher is like a young Sherlock Holmes. Relatively short. Tells us how Reacher's character was established. Short, fun to listen.
 
+* For his age he had always been a freakishly big kid, right from birth. His mother claimed he had been the biggest baby anyone had ever seen, although she had a well-known taste for the dramatic, so Reacher tended to discount that information. But even so, big or not, he had always fought two or three classes up. Sometimes more. With the result that one on one, ninety-nine per cent of the time, he had been the small kid. So he had learned to fight like a small kid. All things being equal, size usually wins. But not always, otherwise the heavyweight championship of the world would be decided on the scales, not in the ring. Sometimes, if the small guy is faster and smarter, he can get a result. And one way of being smarter is to make the other guy dumber, which you can do by inducing a rage. An opponent’s red mist is the smaller guy’s best friend. So yes, Reacher was trying to make the smelly kid mad.
+
+
 # Deep down
 I don't remember anything. Pretty short book.
 
@@ -28,7 +31,7 @@ I don't remember anything. Pretty short book.
 # Small Wars
 
 Quotes:
-* 
+* Like they say in England, why buy a dog and bark yourself
 
 
 # High Heat
@@ -98,6 +101,18 @@ Quotes:
 
 
 # Die Trying
+Don't remember anything about this book.
+
+
+
+* But those were illusory feelings. A soft, suburban guy like him was never going to be in command of a situation like that. His fitness was just health-club tone. It counted for nothing.
+
+* But second, she did it in a way which avoided the slightest trace of bullshit. She tinged her attitude with a gentle mocking humor which saved people from hating her. It made them love her instead. 
+
+* He was as American as the president, but he'd lived and served all over the world most of his life. Outside the United States. It had left him knowing his own country about as well as the average seven-year-old knows it. So he couldn't decode the subtle rhythms and feel and smells of America as well as he wanted to.
+
+* Whoever they are, Special Forces, CIA, FBI, detectives, it's their job. They wear working clothes. They use weapons they signed out last year, the year before, tried and trusted weapons, chipped weapons, scratched weapons, working tools. Put three professionals together on any one day, and you'll see last night's pizza on one guy's shirt, another guy won't have shaved, the third guy will be wearing the awful old pants his buddies make jokes about behind his back. It's possible you'll see a new jacket once in a while, or a fresh gun, or new shoes, but the chances of seeing everything new all at once on three working professionals on the same day are so slim as to be absurd. And their attitude betrayed them. Competent, but jumpy, uptight, hostile, rude, tense. Trained to some degree, but not practiced. Not experienced. They'd rehearsed the theory, and they were smart enough to avoid any gross errors, but they didn't have the habituation of professionals. Therefore these three were some kind of amateurs.
+
 
 
 # Trip Wire
@@ -368,3 +383,46 @@ Again farmers, again plot twists, and Reacher searching for `Mother's rest` city
 * But all of them the wrong side of open ground. Twenty yards minimum. Twenty steps. A long way. Not impossible. It depended on the other guys. How they aimed. How they were trained. If they were trained. A guy who was taught the front-sight mantra might focus so hard he could lose his peripheral vision. Just in the moment. It was possible a guy could walk away unnoticed. It was possible a guy in a gorilla suit could walk away. It would depend on the degree of focus. A person might get away with it. But three people wouldn’t.
 * All the guys Reacher had ever known, fraud, theft, homicide, and treason, right up to the very end believed there was some chance of getting away with it, and therefore something should be salvaged, if possible. No one wanted to start over with nothing. These guys might save most of their inventory. And their equipment. Reacher assumed high definition cameras were expensive.
 * In the tall tales told by firelight there was always a brief conversation. Because the bad guy had to be told why he had to die. Tales were tales, and not the real world.
+
+
+
+
+# Midnight Line
+
+Something about reaching finding ring in pawn shop.
+
+
+4/5.
+
+
+*  Anything to keep the guy awake. Anything to avoid the old joke: I want to die peacefully in my sleep like Grandpa. Not screaming in terror like his passengers.
+
+* No point arriving in Rapid City all tired and exhausted. No point arriving exactly when expected, either. ... Which would certainly be acted upon, as a distant early warning. There’s something out there. The oldest fear in human history. Scorpio would post sentries right away. And so in turn Reacher would make them stare at a whole lot of nothing for the first day. To dull them down, to sap their enthusiasm, to make them yawn and blink. Always better to engage at a time of your own choosing.
+
+* As so often, getting from the highway to the city was the hardest part of the trip. The red truck was too big for downtown. Reacher got out at the cloverleaf, at ten to eight in the evening, after five hours and five minutes exactly. He stretched and breathed and set out looking for a local ride. There was plenty of traffic. Plenty of pick-up trucks, and SUVs, and regular cars. But there was the wrong frame of mind. They were all coming off the highway. They were all on their last lap. All almost home. Almost there. Almost to the bar. Almost to the girlfriend’s house. Almost to wherever. They all sped past. No one was in the mood to offer a ride. Not then. Did not compute. Rides were offered at the start of a journey. Not at the end.
+
+* The left-hand motel had: Free Everything. Which Reacher doubted. Not the actual accommodation itself, surely. But nothing ventured, nothing gained. ... He sensed she meant Free Everything partly as a response to her neighbor’s boasting, whether good humored or teasing or edgy all in the eye of the beholder, but also partly she meant it as a despairing lament that these days, whatever you did, there was always someone in the world prepared to do it cheaper. Where could she go after free?
+
+* And where there was an alley would be a kitchen door. It would be open. Almost certainly a legal requirement. This door must remain unlocked during business hours. To act as a fire escape for the cook. Another necessary amenity. Greasy spoon kitchens burned like napalm.
+
+* The whole get-in-the-car thing looked pretty good in the movies, but on the street it was basically optional. Plenty of choices. Keep calm and walk away. Live to fight another day.
+
+* All he had to do was take one fast pace left. Then the guy would be shooting through glass again, or the B-pillar, or the C-pillar, plus anyway his shoulder was tight against the upholstery and wouldn’t rotate. Plus again, the cops would come. Lights and sirens. Questions. The guy was stuck.
+
+* The truck was a Toyota. It was raised up on its suspension and tricked out with all kinds of heavy-duty components. It looked fit for service on the back side of the moon. Certainly it handled I-25 with no trouble at all.
+
+* Reacher shrugged at the woman, palms up, as if in puzzlement. Another universal gesture. Yeah, I know, but I better go with my crazy friend. 
+
+* So Reacher told the story fair and square. Maybe somewhat aware of his federal audience. Maybe nudging a little ways toward a certain kind of circular argument, in which the participants’ professional backgrounds not only justified but actually required their involvement, while simultaneously absolving them of any kind of blame.
+
+* Noble cooked, and talked about heroin. It was both his paycheck and his passion. He knew its history. Once upon a time it was a legal ingredient. It was in all kinds of stuff, branded with famous names still known today. There was heroin cough syrup. There was heroin cough syrup for children. Stronger, not weaker. Doctors prescribed heroin for fussy babies and bronchitis and insomnia and nerves and hysteria and all kinds of other vapors. The patients loved it. Best health care ever. Millions got addicted. Corporations made a lot of easy money. Then folks got wise, and by the start of World War One, legal heroin was history. 
+
+* Pain was not yet a thing. Institutes had to be funded, and scholarships endowed. Doctors had to be persuaded. Patients had to be empowered. Which all worked in the end. Pain became a thing. Self-reported and untestable, but suddenly a symptom as valid and meaningful as any other. As a result, America was flooded with hundreds of tons of heroin, in purse-size blister packs, backed with foil.
+
+* Maybe he was out sick the day they taught real life. Nothing works a hundred percent
+
+* Like all humans the cop was prey to small subliminal emotions. Billy’s failure to stop right away kind of pissed him off. He found it cocky and disrespectful. Normally he might just have pulled alongside and dropped his far window and told the guy to take it easy. But now he felt a hot bite of annoyance, and it kind of puffed him up and set his jaw, and he found himself launching into the whole big performance.
+
+* But he was a man who believed productivity depended on the maximum use of all fixed assets. It was the number one rule in the new environment.
+
+* Such a guy would give nothing up. Except by accident. Foxes and squirrels had numerous admirable qualities, but they didn’t get college degrees. There would be some kind of side door. Some kind of trigger. Maybe approval. Billy was the type of guy who most likely never had much. Maybe he could be stroked into prideful reminiscences, about the deals he had done.
