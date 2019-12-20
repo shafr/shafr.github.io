@@ -169,6 +169,20 @@ This is a rare example when movie was much better then the book.
 
 
 
+* 'Four types of people join the military,' he said. 'First, for people like me, it's a family trade. Second, there are patriots, eager to serve their country. Third, there are people who just need a job. And fourth, there are people who want to kill other people. The military is the only place where it's legal to do that. James Barr was the fourth type. Deep down he thought it would be fun to kill.'
+
+* Rule one, be on your feet and ready. Rule two, show them what they're messing with. Rule three, identify the ringleader. There were five guys. Any five guys will have one ringleader, two enthusiastic followers, and two reluctant followers. Put the ringleader down, and both of the keen sidekicks, and it's over. It never gets worse than three-on-one. Rule four: The ringleader is the one who moves first. Because, rule five: Never back off. But, rule six: Don't break the furniture. Break furniture in a bar, and the owner starts thinking about his insurance policy, and insurance companies require police reports, and a patrolman's first instinct is to throw everyone in jail and sort it out later. Which generally means: Blame it on the stranger
+
+* Rule eight: Assess and evaluate. The big guy was round and smooth and heavy, like a bull seal. Maybe ten years out of high school. An unbroken nose, no scar tissue on his brows, no misshapen knuckles. Therefore, not a boxer. Probably just a linebacker. So he would fight like a wrestler. He would be a guy who wants you on the ground.
+
+* He was an object of study for Mason and Niebuhr. Maybe the subject of future academic papers, even fame and reputation. Maybe he was a condition waiting to be named. Barr's Syndrome. Same for Alan Danuta. Maybe to him the whole thing was a Supreme Court precedent waiting to be argued. A textbook chapter. A law school class. Indiana versus Barr. Barr versus the United States. They were all investing in a man they had never even seen.
+
+* People like to use computer metaphors now, but that's all wrong. It's not about hard drives and random access memory. The brain is entirely organic. It's like throwing a bag of apples down the stairs. Some bruise, some don't.
+
+* The tired thirty-year-old doctor on the sixth floor of the county hospital was finishing up his afternoon rounds. He had left James Barr for last. Partly because he wasn't expecting any dramatic change in his condition, and partly because he didn't care anyway. Looking after sick thieves and swindlers was bad enough, but looking after a mass-murderer was absurd. Doubly absurd, because straight after Barr was on his feet he was going to be laid back down on a gurney and some other doctor was going to come in and kill him. But ethical obligations are hard to ignore. As is habit. As is duty, and routine, and structure. 
+
+
+
 # 61 Hours
 This one was just great. Awesome detective - drug deals, bikers, prison breaks, witness protetion. Everything that I like from Jack Reacher in one place. 5/5.
 
