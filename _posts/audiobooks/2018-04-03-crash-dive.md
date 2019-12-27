@@ -9,6 +9,7 @@ length: 14h 51m
 categories: audiobooks
 image: /assets/audiobooks/crash_dive.jpg
 details_url: https://www.audible.com/pd/Fiction/Crash-Dive-Omnibus-Books-1-3-Audiobook/B07BTR25KQ
+rating: 5
 ---
 
 That is straight all-that-you-can-imagine submarine-related stuff. 

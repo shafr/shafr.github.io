@@ -9,6 +9,7 @@ length: 8h 13m
 categories: audiobooks
 image: /assets/audiobooks/arisen_b8.jpg
 details_url: https://www.audible.com/pd/Empire-of-the-Dead-Audiobook/B01A9EMLXU
+rating: 5
 ---
 
 ### Quotes:
