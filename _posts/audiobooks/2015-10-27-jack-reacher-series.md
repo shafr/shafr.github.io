@@ -9,6 +9,7 @@ length: 14h 05m
 categories: audiobooks
 image: /assets/audiobooks/jack_reacher.jpg
 details_url: https://www.audible.com/series?asin=B005NASKDG
+rating: 5
 ---
 
 That is how military detective should look like.

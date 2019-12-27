@@ -9,6 +9,7 @@ length: 26h 43m
 categories: audiobooks
 image: /assets/audiobooks/to_hell_and_back.jpg
 details_url: https://www.audible.com/pd/History/To-Hell-and-Back-Audiobook/B017RTQ6YK
+rating: 5
 ---
 
 One of the best historical audiobooks that I've listened to - lot's of things that were put in me by history teachers, stereotypes, propaganda were destroyed.

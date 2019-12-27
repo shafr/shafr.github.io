@@ -9,6 +9,7 @@ length: 16h 23m
 categories: audiobooks
 image: /assets/audiobooks/exp_force_columbus_day.jpg
 details_url: https://www.audible.com/pd/Columbus-Day-Audiobook/B01N48VJFJ
+rating: 3
 ---
 
 I've stopped listening around 4 book, such annoyed I was with a tin can AI. First few were great though.

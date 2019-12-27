@@ -9,6 +9,7 @@ length: 8H 53M
 categories: audiobooks
 image: /assets/audiobooks/titanborn.jpg
 details_url: https://www.audible.com/series/Children-of-Titan-Audiobooks/B07JBH9BB1
+rating: 4
 ---
 
 ## The Collector

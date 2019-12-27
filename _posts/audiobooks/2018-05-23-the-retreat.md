@@ -9,6 +9,7 @@ length: 14h 05m
 categories: audiobooks
 image: /assets/audiobooks/retreat.jpg
 details_url: https://www.audible.com/pd/Mysteries-Thrillers/The-Retreat-Series-Audiobook/B07D7J53GG
+rating: 4
 ---
 
 Not the best military book, not the best thriller, but has some action and original plot.

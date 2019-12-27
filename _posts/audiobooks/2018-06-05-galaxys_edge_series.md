@@ -9,6 +9,7 @@ length: 15h 23m
 categories: audiobooks
 image: /assets/audiobooks/galaxy_edge_1.jpg
 details_url: https://www.audible.com/pd/Sci-Fi-Fantasy/Galaxys-Edge-Audiobook/B079LRSMNN
+rating: 5
 ---
 
 ## Part 0.5 
