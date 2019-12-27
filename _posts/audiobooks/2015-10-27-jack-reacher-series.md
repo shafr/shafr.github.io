@@ -450,6 +450,9 @@ Skipped half of the book - just qoutes about how cool he is.
 
 # Short Stories:
 
+### Everyone Talks
+3rd person narrative about Jack Reacher. Didn't enjoy it at all. 
+No quotes here.
 
 ### Cleaning the gold 3/5
 A short story where they were able to put some action and plot twist. Narration wasn't the best, but it's ok for it's 2 hours.
