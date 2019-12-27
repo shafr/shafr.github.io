@@ -321,7 +321,9 @@ Great story about fighting with crime lords and night at New York.
 
 ### 18 Never Go Back - 13H 44m
 
-### 18.5 Not a Drill - 1H 13m
+### 18.5 Not a Drill - 1H 13m (2/5)
+
+Nothing overexciting here - just Jack Reacher woundering around the woods. "Better than a poke in the eye".
 
 ### 19 - Personal - 12H 55m
 
