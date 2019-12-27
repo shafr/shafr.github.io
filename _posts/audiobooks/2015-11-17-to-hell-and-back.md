@@ -13,6 +13,8 @@ details_url: https://www.audible.com/pd/History/To-Hell-and-Back-Audiobook/B017R
 
 One of the best historical audiobooks that I've listened to - lot's of things that were put in me by history teachers, stereotypes, propaganda were destroyed.
 
+It shows not the war itself but a lot of things that were going on in the life of people of 20th century.
+
 Lots of great quotes inside.
 
 #### Quotes:
