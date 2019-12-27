@@ -142,9 +142,6 @@ Quotes:
 
 > But the Savages, who even then were beginning to come into communication with one another, were taking worlds of their own in which to grow their nightmare societies. The galaxy-wide conflict that would be known as the Savage Wars was coming. And that too was the reason for the Legion. And the Republic and its mighty navy.
 
-
-
-
 ## Iron Wolfes 3/5
 
 Parallel story about fighting squad on the edge of the galaxy.
@@ -153,6 +150,8 @@ This series are now staring to be like `Romance novels` with simple or no major 
 
 Just a books for passing by while waiting for major releases.
 Rating: 3/5
+
+>> Where I come from, we have a saying: 'A man can’t live with each foot in a different world.'
 
 ## Order of the Centurion 4/5
 
