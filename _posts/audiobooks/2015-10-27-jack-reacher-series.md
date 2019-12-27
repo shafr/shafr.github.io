@@ -14,31 +14,33 @@ rating: 5
 
 That is how military detective should look like.
 
-First books are fairly short - about 4 hours.
+I'm using Audible's series numeration here:
 
-# Jack Reacher Rules
+### Jack Reacher Rules
 Skipped half of the book - just qoutes about how cool he is.
 
-# Second son
+### 15.5 - Second son - 1H 14m
+First books are fairly short - about 4 hours.
+
 This time Jack Reacher is like a young Sherlock Holmes. Relatively short. Tells us how Reacher's character was established. Short, fun to listen.
 
 * For his age he had always been a freakishly big kid, right from birth. His mother claimed he had been the biggest baby anyone had ever seen, although she had a well-known taste for the dramatic, so Reacher tended to discount that information. But even so, big or not, he had always fought two or three classes up. Sometimes more. With the result that one on one, ninety-nine per cent of the time, he had been the small kid. So he had learned to fight like a small kid. All things being equal, size usually wins. But not always, otherwise the heavyweight championship of the world would be decided on the scales, not in the ring. Sometimes, if the small guy is faster and smarter, he can get a result. And one way of being smarter is to make the other guy dumber, which you can do by inducing a rage. An opponent’s red mist is the smaller guy’s best friend. So yes, Reacher was trying to make the smelly kid mad.
 
 
-# Deep down
+### 16.5 - Deep down - 1H 19m
 I don't remember anything. Pretty short book.
 
 
-# Small Wars
+### 19.5 - Small Wars - 1H 16m
 
 Quotes:
 * Like they say in England, why buy a dog and bark yourself
 
 
-# High Heat
+### 17.5 - High Heat
 Great story about fighting with crime lords and night at New York.
 
-# The Enemy 
+### 8 - The Enemy - 14H 39m
 Dozens of `He said nothing` through the book (narrator enjoyed himself) and lot's of telephone calls. 
 Great twist and lots of detective work.
 
@@ -63,12 +65,11 @@ Quotes:
 
 *  I was in the army, and I was always where someone else told me to be.
 
-# Night School
+# 21 - Night School - 13H 7m
 I did not like the narrator in this book and the plost twist with spy-chips, so skipped around 1H in.
 
-# Affair
+# 16 - Affair - 16H 3m
 Reacher vs navy seals. Investigation of a killing of young woman in a small town and a crashed car on a tracks. Good book.
-
 
 Qoutes: 
 * I went to bed early, my hair matted, my unshaven face scratchy on the pillow, and the clock in my head woke me at five, two hours before dawn, on Friday, March 7th, 1997. The first day of the rest of my life.
@@ -84,7 +85,7 @@ Qoutes:
 * And DoD planners have always been a cautious bunch. They didn’t want some reservist convoy from New Jersey or Nebraska getting lost in unfamiliar parts. So they put discreet and coded signs here and there, marking the way to and from every major installation in the nation. Their efforts intensified after the Interstate system was begun. The Interstate system was formally named for President Eisenhower, for a very good reason. Eisenhower had been Supreme Allied Commander in Europe during World War Two, and his biggest problem had not been Germans. It had been getting men and matériel from point A to point B across lousy and unmarked roads. He was determined his successors should not face similar problems should land war ever come to America. Hence the Interstate system. Not for vacations. Not for commerce. For war. And hence the signs.
 
 
-# Killing floor
+# 1 - Killing floor - 17H 47m
 Now everyone in the book "shrugs" all the time, no more "he said nothing"'s here.
 I've enjoyed this book - great plot twist, but it's kind of easy to guess from the beginning who's who. Also lots of violence.
 
@@ -101,10 +102,8 @@ Quotes:
 * You wait in a kind of trance. You need infinite patience. No use fretting or worrying. You just wait. Doing nothing, thinking nothing, burning no energy. Then you burst into action. After an hour, five hours, a day, a week. Waiting is a skill like anything else.
 
 
-# Die Trying
+# 2 - Die Trying - 15H 55m
 Don't remember anything about this book.
-
-
 
 * But those were illusory feelings. A soft, suburban guy like him was never going to be in command of a situation like that. His fitness was just health-club tone. It counted for nothing.
 
@@ -116,7 +115,7 @@ Don't remember anything about this book.
 
 
 
-# Trip Wire
+# 3 - Tripwire - 14H 52m
 Great narration by Dick Hill - enjoyed his impersonation of different people.
 Also great and (almost) unpredictable plot. As always some detective work, romance. Lee is following his book pattern. 
 Cleaning blame for a a guy who died during Vietnamese wars and getting rid of credit crime lord in a nutshell.
@@ -135,7 +134,7 @@ Quotes:
 *  He was a meticulous man, attentive to tiny detail as much in his ethics as in his professional speciality.
 
 
-# Echo Burning
+# 5 - Echo Burning - 17H 34m
 Another great book happening in Texas. Horses, ranches, pickups, immigrans, lots of stuff going on. Interesting book. Great narration by Dick Hill still.
 
 Quotes: 
@@ -148,7 +147,7 @@ Quotes:
 * `Abort horizon` - Whenever the team was split, the woman set an abort horizon. Which meant that you waited until the time had passed, and then, if the team wasn't together again, you got the hell out, every man for himself.
 * First thing out of a gun barrel is an explosion of hot gas. If the muzzle was tight against the forehead, the gas punches in under the skin and then can't go anyplace, because of the bone. So it punches right back out again. It tears itself a big star-shaped hole. ... Next thing out of the barrel is flame. If it was a real close shot, two or three inches, but not a contact shot, we'd see burning of the skin. In a small ring shape. ... Next thing out is soot. Soft, smudgy black stuff. So if it was a shot from six or eight inches, we'd see soot smudging on his forehead. Maybe a patch a couple inches wide. ... "Next thing out is gunpowder particles. Little bits of un-burned carbon. No gunpowder is perfect. Some of it doesn't burn. It just blasts out, in a spray. It hammers in under the skin. Tiny black dots.
 
-# Without Fail 4/5
+# 6 - Without Fail - 14H (4/5)
 Vice-president assassination. Great description of bodyguard profession. Also great insights into politics in USA. 
 
 Quotes: 
@@ -160,7 +159,7 @@ Quotes:
 * (ARMY) Some join because they need a job or want to learn a trade, some join because they want to shoot heavy weapons and blow things up. Some, like Reacher himself, join because it's preordained. But most join because they're looking for cohesion and trust and loyalty and camaraderie. They're looking for the brothers and the sisters and the parents they haven't got anywhere else.
 * The first Secret Service agents to arrive were the line-of-sight team. They had a large-scale city surveyor's map and a telescopic sight removed from a sniper rifle. One agent walked through every step that Armstrong was scheduled to take. Every separate pace he would stop and turn round and squint through the scope and call out every window and every rooftop he could see. Because if he could see a rooftop or a window, a potential marksman on that rooftop or in that window could see him. The agent with the map would identify the building concerned and check the scale and calculate the range. Anything under seven hundred feet he marked in black. .... He wrote checked with scope, clear daylight, 0845 hrs, all suspect locations recorded across the bottom of the map and signed his name and added the date. The agent with the scope countersigned and the map was rolled and stored in the back of a department Suburban, awaiting Froelich's arrival.
 
-# Persuader 5/5
+# 7 - Persuader (5/5)
 More undercover work for crime overlords on Reacher part.
 Great first chapter with twists. 
 Great parallel storytelling from two different time frames.
@@ -177,7 +176,7 @@ Quotes:
 * But I wasn’t a guy who hijacked subordinates’ achievements in order to make myself look good. I never did that. If somebody performed well, did a good job, I was always happy to stand back and let them reap the rewards. It was a principle I adhered to throughout my career. I could always console myself by basking in their reflected glow. It was my company, after all. There was a certain amount of collective recognition.
 * “RPG means rocket propelled grenade,” he said. “In English,” I said. “In Russian it means Reaktivniy Protivotankovyi Granatomet, rocket anti-tank grenade launcher. But it uses a missile, not a grenade.”
 
-# One Shot 1/5
+# 9 - One Shot - 14H 33m (1/5)
 
 Terrible book. 
 Lot's of repetition and reflection, very small amount of action.
@@ -210,7 +209,7 @@ This is a rare example when movie was much better then the book.
 
 * Random slayings always involved people described as lovely afterwards. Nobody ever said she was a rat-faced fink and I'm glad she's dead. Whoever it was did us all a favour. That never happened.
 
-# 61 Hours 5/5
+# 14 - 61 Hours - 13H 43m (5/5)
 This one was just great. Awesome detective - drug deals, bikers, prison breaks, witness protetion. Everything that I like from Jack Reacher in one place. 
 
 * He was eight minutes late. He had driven slowly because of the weather. Normally he would have regarded it as a failure to be late for an appointment. Unprofessional, and disrespectful. But prison visits were different. Time meant nothing to prisoners.
@@ -239,8 +238,7 @@ You won fights, you got less hassle, you ruled the yard.
 To be born tall was to win life’s lottery.
 Born small, two strikes against.
 
-
-# Worth Dying for 5/5
+# 15 - Worth Dying For - 13H 45m (5/5)
 Another great story about smugglers / missing girl and farmer life. 
 
 * It was ringed with parked cars, all of them nose-in like sucking pigs or jets at a terminal.
@@ -261,7 +259,7 @@ Another great story about smugglers / missing girl and farmer life.
 * The problem with being a right-handed man in a left-hand-drive truck was that he would have to bust out the windshield to fire, which used to be easy enough back in the days of pebbly safety glass, but modern automotive windshields were tough, because they were laminated with strong plastic layers.
 
 
-# A wanted man  6/5
+# 17 - A wanted man - 11H 47m (6/5)
 I would say it's the most favorite book so far. 
 
 Unlucky car neighbors, FBI, CIA, terrorists, twisted plots.
@@ -289,7 +287,7 @@ Unlucky car neighbors, FBI, CIA, terrorists, twisted plots.
 * Some old guy once said the meaning of life is that it ends. Which was inescapably true. No one lives for ever. In his head Reacher had always known he would die. Every human does. But in his heart he had never really imagined it. Never imagined the time and the place and the details and the particulars.
 
 
-# Bad luck and trouble 4/5
+# 11 - Bad Luck and Trouble - 13H 17m (4/5)
 Jack reacher and his friends are brought togather to fight criminals.
 Few cool plot twists. Like most other audiobooks you forget everything about them after few weeks
 
@@ -297,7 +295,7 @@ Few cool plot twists. Like most other audiobooks you forget everything about the
 
 * People say the darkest hour is just before dawn, but people are wrong. By definition the darkest hour is in the middle of the night. By five in the morning the sky in the east was lightening. By five-thirty visibility was pretty good. 
 
-# Nothing to lose 2/5
+# 12 - Nothing to lose - 13H 26m (2/5)
 As story about cities called "Hope" and "Despair".
 I would not say that I enjoyed this book much - I did not want to come back to it and was listening to others - there was no twisted plots or anything interesting going on.
 
@@ -335,7 +333,7 @@ Quotes:
 3rd person narrative about Jack Reacher. Didn't enjoy it at all. Skip.
 No quotes here.
 
-# Make me 4/5
+# 20 - Make me - 14H 3m (4/5)
 Again farmers, again plot twists, and Reacher searching for `Mother's rest` city meaning. Interesting story to pass by the time, but nothing special. 
 
 * He guessed he could go find her. But for what? He wasn’t planning any kind of a big long speech. Five more minutes of small talk wouldn’t make a difference. He traveled. He moved on. People came and went. He was used to it. No big deal. A friendly wave would do the job, as he stepped across to the train.
@@ -377,10 +375,7 @@ Again farmers, again plot twists, and Reacher searching for `Mother's rest` city
 * All the guys Reacher had ever known, fraud, theft, homicide, and treason, right up to the very end believed there was some chance of getting away with it, and therefore something should be salvaged, if possible. No one wanted to start over with nothing. These guys might save most of their inventory. And their equipment. Reacher assumed high definition cameras were expensive.
 * In the tall tales told by firelight there was always a brief conversation. Because the bad guy had to be told why he had to die. Tales were tales, and not the real world.
 
-
-
-
-# Midnight Line 4/5
+### 22 - Midnight Line - 11H 17m (4/5)
 
 Something about reaching finding ring in pawn shop.
 
@@ -416,9 +411,7 @@ Something about reaching finding ring in pawn shop.
 
 * Such a guy would give nothing up. Except by accident. Foxes and squirrels had numerous admirable qualities, but they didn’t get college degrees. There would be some kind of side door. Some kind of trigger. Maybe approval. Billy was the type of guy who most likely never had much. Maybe he could be stroked into prideful reminiscences, about the deals he had done.
 
-
-
-### Blue Moon 4/5
+### 24 - Blue Moon - 11H 13m (4/5)
 
 Jack reacher himself fights 2 mobs - Ukrainian and Albanian. This one feels more like Rambo, not classic Jack Reacher. But still a solid book and nice thing to listen.
 
@@ -440,7 +433,7 @@ Jack reacher himself fights 2 mobs - Ukrainian and Albanian. This one feels more
 
 * It’s something they teach you in the army. The only thing under your direct control is how hard you work. In other words, if you really, really buckle down today, and you get the intelligence, the planning, and the execution each a hundred per cent exactly correct, then you are bound to prevail. ... What they really mean is, if you fail today, it’s completely your own fault.
 
-### Past Tense 3/5
+### 23 - Past Tense - 12H 51m (3/5)
 Reacher is looking for his father in a city. Lots of detective work. Don't remember much more.
 
 * Why would a person want a fireplace in an entrance lobby? I think historically it was designed to repel. It was defensive. Like the campfire burning in the mouth of the cave. It was intended to keep predators at bay.
