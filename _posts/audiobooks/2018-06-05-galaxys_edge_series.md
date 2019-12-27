@@ -82,6 +82,31 @@ I think the problem of this 9-part series of the books that you totally forget a
 
 >> To suggest otherwise, say in a whispered conversation in some darkened corridor on boarded destroyer with hope that the thrumming of sub-light engines kept one from being overheard - was career suicide. Because conversations, real conversations took two people. And in a cut-throat world of republic army, you didn't give an advantage over you, like the person on the other side of your conversation. Friendships were few and frail.
 
+
+
+
+### Quotes from Book IV 
+##### Turning point
+* He didn’t like that he was having to gamble the whole operation on how stupid and lazy the donks were when it came to any task besides actual front line combat. They did excel at that—to the point of being noted as “capable” in any Legion intel assessment—but when it came to secondary tasks, the zhee merely could not be bothered to put in much effort. Still, everything Besson had learned in Legion OCS had told him never to bet on any opponent’s weakness. Never hope to get lucky because the other guy has decided to put in half effort. Expect as good as you give.
+
+* Well, boys, this is where we leej up and do all the things we ever dreamed of. Which is, to put not too fine a point on it, die gloriously and leave good-lookin’ corpses behind. Some of you are excepted from that last part. Sad that it has to be the donks bein’ the ones to do it, but who says you get to pick your death.
+
+* A Legion commander, or any general, really, was an instrument. A mind molded for battle. A lightning rod for military inspiration… but rarely did any of that translate to the public at large. The life of a career soldier was as far removed from that of the average citizen as Pusar was from its ninth moon.
+
+* But he still needed rest. He could feel the strain on his eyes and on his mind from constantly looking, surveying. The relentless grind that came from too much time in the red zone, trying to keep himself and his team left of bang. He could play the badass. Mumble some line about sleeping when he was dead. But that was the sort of thing that made you dead.
+
+#####  Message for the Dead
+
+* For all the turrets’ predictive algorithms modeling combat, artificial intelligence—in Keel’s opinion—had never fully developed the right instincts for combat. That problem abounded in all AI, regardless of its purpose. There was no programming out there that could make up for those gut feelings that so often spelled the difference between success and failure, life and death. Even a top-of-the-line combat targeting system couldn’t tell when things were just… off. Or if they could, they didn’t know what to make of it. They had a hard time recognizing traps. They had a hard time calculating when a single shot in the course of a battle counted more than all the other programmed auto-fires. They were fine in a target-rich environment, when all it took was selecting their next lock and eliminating it in a full-fledged battle. But there was just too much happening in a fight. Too much that could go wrong. Too much that needed seeing, and then… processing of a variety and sort that humans—with their mix of empathy, emotion, and reason—were just able to do better. That’s why great armies of bots and unmanned ships had never grown to widespread galactic use. They could cause damage, but they couldn’t win wars.
+
+* Keel could tell that the code slicer was eager to explain. The kid seemed to have an irrepressible desire to let people know how he’d figured out the solution to a problem. Probably the result of some sort of search for approval. Maybe Mom and Dad hadn’t taken as good care of Garret as they might have. Maybe all that time as an outsider had left him wanting to show that he belonged.
+
+* And for the first time in his life, other than the occasional dawn in which he found himself exiting a casino during shore leave out on some fringe backwater pleasure world, Desaix felt old. He felt like an old man in a galaxy that was made for the young. And then he made sure everyone was moving forward together toward the ship. Which is what old men and captains do.
+
+* Then he looked across the room full of Legion officers, knowing many would die in the next few hours. He nodded slightly. Barely. Making sure he fixed the faces of the dead in his mind. If only so that the someone who would order them to their death did so not lightly.
+
+* Which was what made the military different from the rest of the galaxy. Most ran from the fire. The military was supposed to run toward it.
+
 ## The imperor 4/5
 This is how ~~Dart Wader~~ Dark Goth got his name and became who he is. Of course bad guy was good guy at some point.
 
@@ -133,7 +158,7 @@ Rating: 3/5
 
 Books that does not involve main characters here, trying to build up universe around here.
 
-Like `The Imperor` book, this one tries to introduce young senator `Oren Kar` (how is his name spelled?) and Point general that was helping dark ops and other Legion forces in the end of book 6.
+Like `The Imperor` book, this one tries to introduce young senator `Orrin Kaar` and Point general that was helping dark ops and other Legion forces in the end of book 6.
 
 I feel like there is too much drama and "movie" like moments, deus-ex machinas, and twists just for the sake of being there. First books had less of those. Again using some weird formulas to build tension and explain plot.
 
