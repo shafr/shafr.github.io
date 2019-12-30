@@ -5,6 +5,8 @@ tags: ["Mopidy", "Home Assistant", "bluetooth", "bluealza"]
 categories: smarthome
 ---
 
+![Mopidy tab view](/assets/2019-12-16/mopidy_tab.png)
+
 So since the child was born my wife had this idea that we need white noise in bedroom. I've made a quick dirty implementation with small speakers + usb-bluetooth <-> AUX adapter  and Android phone connected over bluetooth.
 
 Problem being that if you had to stop/start or change volume you had to carry phone with you (and charge it) or keep it on charger constantly and reach over to it to change sounds and volume.
@@ -13,7 +15,7 @@ I was looking into solution from my Smart Home standpoint - a way to play using 
 
 I recommend reading [GUIDE][complete-flow] for detailed instructions on installation. I will just provide high level guide.
 
-# Building all pre-requesites (checklist)
+## Building all pre-requesites (checklist)
 We would need few tools/packages for it to work:
 
 * bluez
@@ -49,17 +51,16 @@ sudo hciconfig hci0 up
 ```
 
 ### Connecting speaker and testing it:
-You would need to use bluetoothctl tool in order for all bluetooth-pairing stuff.
-
-
+You would need to use `bluetoothctl` utility in order for all bluetooth-pairing stuff.
 
 ```
-select <mac> - select your bt adapter
+list # lists your BT devices
+select <mac> # select your BT device (adapter)
 power on
 agent on
 
 scan on <scan>
-... find your device mac in list
+# find your device mac in list
 scan off
 
 pair <mac>
@@ -68,7 +69,7 @@ connect <mac>
 exit
 ```
 
-Check if everythign is ok:
+Check if everything is ok:
 
 ```
 aplay -D bluealsa:HCI=hci<index like 0>,DEV=<bt mac>,PROFILE=a2dp /usr/share/sounds/alsa/Front_Center.wav
@@ -116,7 +117,7 @@ dmesg -w
 
 #### a2dp-sink profile connect failed for <adapter_mac>: Protocol not available
 
-__Reason__: bluealsa not started properly, or is missconfigured
+__Reason__: bluealsa not started properly, or is misconfigured
 
 If you have more than one bluetooth adapter (or even if you have one, just to be sure) put `device` parameter into `bluealsa.service`. See `installing bluealsa` section for example.
 
@@ -127,6 +128,7 @@ hciconfig list command
 
 #### /usr/bin/bluealsa: E: Couldn't release transport: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "Release" with signature "" on interface "org.bluez.MediaTransport1" doesn't exist
 
+I just restart bluealsa here - usually it helps.
 
 
 #### "Operation not possible due to RF-kill (132)" or something is fishy with adapter
@@ -137,10 +139,13 @@ rfkill list all
 rfkill unblock <index of adapter>
 ```
 
+restart your bluealsa and bluetooth services.
+
+
 #### Bluetooth device is disconnected after some timeout if no music is playing
 I ended up using this script to re-connect (thankfully bluetoothctl can be ran as bash script):
 
-```bash
+```console
 #!/usr/bin/env bash
 
 sudo bluetoothctl disconnect
@@ -162,18 +167,46 @@ sudo mopidyctl local scan
 systemctl restart mopidy
 ```
 
+# Integrating into Home Assistant
+First - you need to configure Media player (mopidy in our case) - this would allow us to control speaker:
 
+```yaml
+media_player:
+  - platform: mpd
+    name: mopidy
+    host: 127.0.0.1
+    port: 6600
+```
 
+If you want to play local tracks (for white noise for example) - copy them to `/var/lib/mopidy/media/white_noise`.
 
+Add to config file (for example track that is located in folder /var/lib/mopidy/media/white_noise/cat.m4a):
+```yaml
+  mopidy_white_noise_cat:
+   sequence:
+    - service: media_player.play_media
+      data:
+        entity_id: media_player.mopidy
+        media_content_type: music
+        media_content_id: local:track:white_noise/cat.m4a
+```        
 
+If you want to listen to radio stations - you can also configure like this:
+```yaml
+  mopidy_stream_rock:
+   sequence:  
+    - service: media_player.play_media
+      data:
+        entity_id: media_player.mopidy
+        media_content_type: audio/mpeg
+        media_content_id: http://live.radioec.com.ua:8000/rock.m3u
+```
 
-
-
-
-
-
-
-
+Also remember the script from troulbeshooting part? I've also added it as a button:
+```yaml
+shell_command:
+  restart_white_noise: /opt/white_noise/restart_speaker.sh
+```
 
 
 [complete-flow]: https://www.sigmdel.ca/michel/ha/rpi/bluetooth_02_en.html#bluez
