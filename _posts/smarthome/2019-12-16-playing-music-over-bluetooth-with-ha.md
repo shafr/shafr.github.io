@@ -108,7 +108,7 @@ aplay -D bluealsa:DEV=<device>,PROFILE=a2dp /usr/share/sounds/alsa/Rear_Left.wav
 # Troubleshooting
 
 Check logs before doing anything - it would give you hints on what's wrong:
-```
+```console
 journalctl -u bluetooth -b
 journalctl -u bluealsa -b
 journalctl -u mopidy -b
@@ -166,6 +166,8 @@ Run local scan and restart mopidy (without restart it would not see those tracks
 sudo mopidyctl local scan
 systemctl restart mopidy
 ```
+
+also ensure that your media files belong to `mopidy:audio` user and group.
 
 # Integrating into Home Assistant
 First - you need to configure Media player (mopidy in our case) - this would allow us to control speaker:
