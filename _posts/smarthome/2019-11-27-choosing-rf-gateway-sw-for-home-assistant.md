@@ -8,7 +8,7 @@ categories: smarthome
 
 ## Introduction and configuration:
 
-### Tasmota [Tasmota][Tasmota]
+### [Tasmota][Tasmota]
 This is the oldest one and the most feature-complete software. According to documentation from components list, it does support RF receiver:
 
 ```
@@ -31,7 +31,7 @@ Benefits of using Tasmota:
 * MQTT status updates with free mem, uptime, cpu load, etc. It's much easier to track status of device with Tasmota.
 * Dozen of supported devices and sensors
 
-### EspHome [EspHome][EspHome]
+### [EspHome][EspHome]
 This one does not requires much programming, but you should declare configuration for it to work.
 
 ```yaml
@@ -71,7 +71,7 @@ Benefits of using EspHome:
 * Support for logging over wifi, OTA.
 
 
-### OpenMqttGateway [OpenMqttGateway][OpenMqttGateway]
+### [OpenMqttGateway][OpenMqttGateway]
 This project main purpose to be RF / and others gateway, so theoretically this is what it should do the best.
 
 Since it supports dozen of different ways to communicate (GSM, IR, RF), you should update configuration file with sensors that you would want to use.
