@@ -50,3 +50,7 @@ show_drafts: false
 #   - vendor/ruby/
 
 talkyard_server_url: https://comments-for-shafr-github-io.talkyard.net/
+
+collections:
+  audio_books:
+      output: true
