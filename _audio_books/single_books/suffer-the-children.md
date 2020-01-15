@@ -17,7 +17,8 @@ Without explaining the plot this one is really creepy.
 It shows us about fears that every parent has, and human nature, that person would do anything to protect their children. (anything)
 
 
-### Quotes:
+# Quotes: 
+
 > The way he saw it he had 3:
 * He could live out his days missing the past in bitterness and pain
 * He could start fresh with John or with somebody new

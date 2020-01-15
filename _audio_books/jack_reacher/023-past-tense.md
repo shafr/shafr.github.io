@@ -19,4 +19,6 @@ rating:
 
 Reacher is looking for his father in a city. Lots of detective work. Don't remember much more.
 
-* Why would a person want a fireplace in an entrance lobby? I think historically it was designed to repel. It was defensive. Like the campfire burning in the mouth of the cave. It was intended to keep predators at bay.
+# Quotes: 
+
+> Why would a person want a fireplace in an entrance lobby? I think historically it was designed to repel. It was defensive. Like the campfire burning in the mouth of the cave. It was intended to keep predators at bay.

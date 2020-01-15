@@ -30,12 +30,14 @@ Cons:
 * One more book that pretends to be a movie rather than the book.
 * Constant ex-machinas in the second part of the book, everyone is saved by accident, idiot enemies, happy end
 
->> We are about to embark on a odyssey. I'm not sure where we are going, or how we will get from here to there, but maybe it's not the ending that's important, maybe it's the journey itself.
+# Quotes: 
 
->> Smell is occasionally and important part of my job, both in my investigations and my client stories, so i understand how it works. The technical term for what i'm experiencing is `Odour-evoked autobiographical memories`. The short version is that life events either repeated ones like school or dramatic ones like funeral for your wife can be linked to a specific smell. Catching a whiff of that oder later in life can transport you back in time, where you might not remember the circumstances and details, but you relive how you felt.  
+> We are about to embark on a odyssey. I'm not sure where we are going, or how we will get from here to there, but maybe it's not the ending that's important, maybe it's the journey itself.
 
->> There are abnormal people, who make careers out of lie. Actors, entertain us to be other people. Celebrities pretend to be healthier or better looking than other people, utilizing makeup and PhotoShop. Politicians, well that does not even need explaining. Lying is a tool employed by everyone on the planet. ... Lies serve a purpose. ... And it's the same purpose all lies serve - to conceal the truth. 
+> Smell is occasionally and important part of my job, both in my investigations and my client stories, so i understand how it works. The technical term for what i'm experiencing is `Odour-evoked autobiographical memories`. The short version is that life events either repeated ones like school or dramatic ones like funeral for your wife can be linked to a specific smell. Catching a whiff of that oder later in life can transport you back in time, where you might not remember the circumstances and details, but you relive how you felt.  
 
->> Human error had toppled empires, computer systems and governments. It had led to a conclusion for every case that i had solved. Where there are people, there are flows, where there are flows, there are weakness. 
+> There are abnormal people, who make careers out of lie. Actors, entertain us to be other people. Celebrities pretend to be healthier or better looking than other people, utilizing makeup and PhotoShop. Politicians, well that does not even need explaining. Lying is a tool employed by everyone on the planet. ... Lies serve a purpose. ... And it's the same purpose all lies serve - to conceal the truth. 
 
->> I'm not sure who or what in the middle of Arisona would need a bunker loaded with heavyhitting guns, but everyone is afraid of something this days. How much more afraid would they be when they would learn the truth. Every adult and child my strall around with a gun on a chance that actual alien might abduct them. Granted it seems like half of country already lives in permanent state of fear, but things can get worse.
+> Human error had toppled empires, computer systems and governments. It had led to a conclusion for every case that i had solved. Where there are people, there are flows, where there are flows, there are weakness. 
+
+> I'm not sure who or what in the middle of Arisona would need a bunker loaded with heavyhitting guns, but everyone is afraid of something this days. How much more afraid would they be when they would learn the truth. Every adult and child my strall around with a gun on a chance that actual alien might abduct them. Granted it seems like half of country already lives in permanent state of fear, but things can get worse.

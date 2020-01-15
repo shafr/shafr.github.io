@@ -18,5 +18,6 @@ details_url: https://www.audible.com/pd/Small-Wars-Audiobook/B013GX3JH8
 rating: 
 ---
 
-Quotes:
+# Quotes: 
+
 * Like they say in England, why buy a dog and bark yourself

@@ -25,4 +25,6 @@ This series are now staring to be like `Romance novels` with simple or no major 
 Just a books for passing by while waiting for major releases.
 Rating: 3/5
 
->> Where I come from, we have a saying: 'A man can’t live with each foot in a different world.'
+# Quotes:
+
+> Where I come from, we have a saying: 'A man can’t live with each foot in a different world.'

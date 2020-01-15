@@ -33,7 +33,8 @@ Author had a great way of describing war without romance.
 
 Lots of great quotes.
 
-### Quotes:
+# Quotes:
+
 > Every submarine captain had his own unique personality and style. He wondered what kind of commander would her be. How well would he handle the pressure. Captain Sunderses's success marked him as a submarine ace. A man once had nerves of steel, but even steel grew fragile if worn down enough. He wared so long - he was now in war with himself.
 
 > Sonders was captain of this boat, king of this kingdom, period. He made a colossal mistake, he had broken under stress. Another man hight have learned from it and move on, done better. But that would require forgiveness. He'd have to forgive himself. Sonders wasn't the type, so he blame the officers.

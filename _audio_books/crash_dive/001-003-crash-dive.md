@@ -32,7 +32,8 @@ Not a lot `Deus Ex Machina's` that appear in the last moment and save everyone
 
 Rare book that does not feel like a scenario for a movie with a plot twists for a common viewer.
 
-### Quotes:
+# Quotes:
+
 > He'd learned that destiny isn't something that you've reached, it was a path. A path defined by choices, directed by strategy and ultimately decided by a luck of a draw.
 
 > He was a men. Men was supposed to take initiative, take charge, make things wright, that how he been taught things worked.

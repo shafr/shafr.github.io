@@ -24,7 +24,8 @@ Not much stuff happened in last part, but it was still great enjoy to listen to 
 
 And now I understood what does Hara-Kiri as a Charles nickname means (damn you English pronunciation!)
 
-### Quotes:
+# Quotes:
+
 > While the award ceremony was highly formalized, the ritual of changing command was even more formal and steeped in navy tradition. The ceremony officially transferred responsibility and authority over US warship from one commanding officer to another. All hands mastered had a clear view of the proceedings as this required a entire crew to bear witness.  
 
 > Superstition wasn't something you can reason with. In the old days of wooden sailing ships sailors threw coins in a foam and poared wine on a deck. They wore tatoos to ward off evil spirits. After getting their crew cuts the wouldn't trim their hair or nails again until the voyage was over. They spat into the harbor before launching. Today the navy had fewer pervasive rituals - though plenty developed around each particular ship. ...
