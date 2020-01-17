@@ -1,0 +1,10 @@
+spoiler {
+    opacity: 0.1; 
+    background-color: white;
+}
+
+
+spoiler:hover { 
+    opacity: 1;
+    background-color: black;
+}
