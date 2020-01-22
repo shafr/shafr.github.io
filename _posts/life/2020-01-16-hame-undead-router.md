@@ -35,7 +35,9 @@ Then I connected my serial adapter went to console.
 
 Here is what I saw:
 
+
 ```bash
+{% raw %}
 U-Boot 1.1.3 Rev 0.3 by WErt(WErt) 4PDA (May 19 2016 - 14:46:46)
 
 Board: Ralink APSoC DRAM: 32 MB
@@ -76,6 +78,7 @@ Please choose the operation:
    8: Load U-Boot code to SDRAM via TFTP.
    9: Load U-Boot code then write to Flash via TFTP.
  0 .
+ {% endraw %}
 ```
 
 I was pretty lucky because for some reason before bricking device I already had bootloader with dozen of options above. Otherwise I had to start TFTP server and host firmware files for modem to download.
@@ -87,6 +90,7 @@ Let's go through the numbers below and how we can use them:
 That's what you'll get when running CLI. Not helpfull from clasicall __sh__ standpoint, but still `better than poke in the eye (C)`. 
 
 ```bash
+{% raw %}
 4: System Enter Boot Command Line Interface.
 
 U-Boot 1.1.3 Rev 0.3 by WErt(WErt) 4PDA (May 19 2016 - 14:46:46)
@@ -116,6 +120,7 @@ tftpd   - load the data by tftp protocol
 usb     - USB sub-system
 usbboot - boot from USB device
 version - print monitor version
+{% endraw %}
 ```
 
 # 5 System update
@@ -124,6 +129,7 @@ For this one to work you shoukd have USB drive with Fat32 and file `firmware.bin
 Here is what happens if you put wrong file (in my case i used `bootloader` instead of firware):
 
 ```bash
+{% raw %}
 5: System Load Linux then write to Flash via USB Storage.
  Warning!! Erase Linux in Flash then burn new one. Are you sure? (Y/N)
 (Re)start USB...
@@ -175,12 +181,14 @@ reading firmware.bin
 .
 .Done!
 3670020 bytes flashed
+{% endraw %}
 ```
 
 
 # 6 Bootloader Update
 
 ```bash
+{% raw %}
 6: System Load U-Boot then write to Flash via USB Storage.
  Warning!! Erase U-Boot in Flash then burn new one. Are you sure? (Y/N)
 (Re)start USB...
@@ -205,6 +213,7 @@ reading uboot.img
 138396 bytes flashed
 
 SYSTEM RESET!!!
+{% endraw %}
 ```
 
 
@@ -214,6 +223,7 @@ SYSTEM RESET!!!
 After flash process was sucesfull you'll get to a lot of awesome text about your system. 
 
 ```bash
+{% raw %}
 3: System Boot system code via Flash.
 ## Checking image at bc050000 ...
 .   Image Name:   MIPS OpenWrt Linux-3.18.36
@@ -432,6 +442,8 @@ root@(none):/# [   19.980000] usbcore: registered new interface driver usbserial
 [   43.820000] br-lan: port 2(wlan0) entered forwarding state
 [   43.830000] br-lan: port 2(wlan0) entered forwarding state
 [   45.830000] br-lan: port 2(wlan0) entered forwarding state
+
+{% endraw %}
 ```
 
 # Finale
