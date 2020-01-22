@@ -19,7 +19,7 @@ rating: 4
 ---
 
 This book reminds me more of the Scooby Doo type detective than anything else. 
-Everyone around black is dumb and do not notice <spoiler> that by accidents contestants are sabotaged. </spoiler>.
+Everyone around black is dumb and do not notice <spoiler> that by accidents contestants are sabotaged. (4 times in a row!!!) </spoiler>
 
 Formula for detective still works - there's a little of everything - cute cat action, Roxy's complaints, parents with their crazy business, drinking, relationships.
 
