@@ -51,7 +51,7 @@ Also I like how author uses totally stock images for his books.
 
 >  Mugsy moved like Ali, a tabby blur, and was devouring the meal so fast Black was afraid of losing a finger.
 
-> Ed was just Ed and would have been delighted under any circumstances, Black suspected. He approached life with the wonder of a child
+> Ed would have been delighted under any circumstances. He approached life with the wonder of a child
 
 > That performance was followed by a boy band that featured five smooth-skinned young men, each with a stereotypical look made obvious by their wardrobes. On Top was the brainchild of an obese fifty-something entrepreneur from Louisiana who minted a new boy band every six months, invariably following the same formula: every member could dance and sing, and each group had the lover, the bad boy, the brooding thinker, the nice guy, and the flashy showman.
 
