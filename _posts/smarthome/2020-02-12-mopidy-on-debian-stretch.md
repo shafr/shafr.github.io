@@ -36,9 +36,11 @@ WantedBy=default.target
 ```
 
 sudo systemctl daemon-reload;
+
 sudo systemctl restart mopidy.service ; journalctl -u mopidy.service -f;
 
 sudo chown -R mopidy /var/lib/mopidy
+
 sudo chown -R mopidy /etc/mopidy
 
 
@@ -57,7 +59,7 @@ ERROR    Failed to create audio output "alsasink device=soundbar": gst_parse_err
 
 # Going the hard way - attempt to install latest version:
 
-### `apt install mopidy`
+### apt install mopidy
 
 ```
 The following packages have unmet dependencies:
@@ -73,7 +75,7 @@ The following packages have unmet dependencies:
 
 * pip3 install sphinx-rtd-theme
  
-### execute `mopidy`
+### execute mopidy
 
 ```
 ERROR: A GObject based library was not found.
@@ -98,7 +100,7 @@ ModuleNotFoundError: No module named 'gi'
 
 * sudo apt-get install libcairo2-dev libjpeg-dev libgif-dev
 
-### `mopidy` again
+### execute mopidy again
 
 ```
 *** Error in `/usr/lib/arm-linux-gnueabihf/gstreamer1.0/gstreamer-1.0/gst-plugin-scanner': free(): invalid pointer: 0xb3b1b5e0 ***
@@ -107,5 +109,3 @@ ERROR: Mopidy requires GStreamer >= 1.14.0, but found GStreamer 1.10.4.
 ```
 
 Nothing here - you'll need to compile this package manually, since only older version exists in repo...
-
-
