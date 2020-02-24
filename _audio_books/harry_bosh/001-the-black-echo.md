@@ -18,7 +18,18 @@ details_url: https://www.audible.com/pd/Angels-Flight-Audiobook/B00CRMUBEY
 rating: 4
 ---
 
-Plot: TODO.
+Unlike Jack Reacher which had his past building him stronger and tougher and where he most always won, Bosch as it looks like had almost always traumatic experience: foster home, killing of his parents, Vietnam, work in police.
+
+This book tells a lot about his Vietnam experience and how he had gone trough it mentally.
+
+Pros: 
+* Solid plot, description of police work and politics stuff
+* description of tension between Bosch him and his management - where they always need to cover for the department, even if truth is different.
+* Bright and memorable characters.
+
+Cons:
+* goons from IAD - I assume there should be some extra tension, but not sure if they were necessary. 
+* unecessary love story - this time FBI agent. Probably he need to prove manly enough by author.
 
 # Quotes:
 > Harry was not a big man. He stood a few inches short of six feet and was built lean. The newspapers, when they described him, called him wiry.
