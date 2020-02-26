@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Bluetooth Speaker and White noise with Home Assistant"
-tags: ["Mopidy", "Home Assistant", "bluetooth", "bluealza"]
+tags: ["Mopidy", "Home Assistant", "bluetooth", "bluealza", "white noise"]
 categories: smarthome
 ---
 
@@ -105,6 +105,21 @@ if everything goes fine you can run script and hear music:
 aplay -D bluealsa:DEV=<device>,PROFILE=a2dp /usr/share/sounds/alsa/Rear_Left.wav
 ```
 
+### Installing mopidy
+
+If you are lucky enough and have latest installation of OS, you can try (and probably would be sucesfull):
+
+```
+apt install mopidy
+```
+
+Otherwise you can visit my `Mopidy installation and issues` article and do.
+
+```
+pip2 install --upgrade --force-reinstall mopidy==2.1.0
+```
+
+
 # Troubleshooting
 
 Check logs before doing anything - it would give you hints on what's wrong:
@@ -168,6 +183,12 @@ systemctl restart mopidy
 ```
 
 also ensure that your media files belong to `mopidy:audio` user and group.
+
+#### Tracks are not looped 
+```
+mpc single on
+mpc repeat on
+```
 
 # Integrating into Home Assistant
 First - you need to configure Media player (mopidy in our case) - this would allow us to control speaker:
