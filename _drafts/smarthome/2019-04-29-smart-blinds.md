@@ -15,6 +15,10 @@ What got me started was this article about [28BYJ-48][belgianlink] turbocharging
 I got all excited (since I have some of that around) and the breadboard prototype was working*. 
 (Only if motors received voltage from 9 volts, ideally 12v)
 
+Also check out the [explanation][explanation] about driver, motor.
+
+`Update from 2020`: Finally I made it work ! See updated code and 3d models section.
+
 # Price for components:
 
 | Count | Component              | Price $ | Link                                             |     
@@ -33,7 +37,7 @@ I got all excited (since I have some of that around) and the breadboard prototyp
 | 10    | 40 pin female header   | 1.09    | https://www.aliexpress.com/item/32867179300.html |
 |       |                        |         |                                                  |
 |       | Total for 1 device     | 16.14   | and lots of parts left ...                       |     
-|       | Total for 10 devices   | 42.15   |                                                  |     
+|       | Total for 10 devices   | 42.15   | that's $4 per one!                               |     
 
 * Note that power supply is not here in the list since i have not decided how to use it.
 Also note that a lot of components are left after any assembly.
@@ -53,38 +57,60 @@ It does show good torque.
 
 Here is a code that made it possible:
 ```yaml
-mqtt:
-  broker: 192.168.1.1
-  username: user
-  password: password
-  client_id: user
-  discovery: false
+# IN1 = 16
+# IN2 = 12
+# IN3 = 15
+# IN4 = 01
 
-  on_message:
-    - topic: motor/left
-      then:
-        - stepper.set_target:
-            id: my_stepper
-            target: 1000
-    - topic: motor/right
-      then:
-        - stepper.set_target:
-            id: my_stepper
-            target: -1000
+
 stepper:
   - platform: uln2003
     id: my_stepper
-    pin_a: GPIO16
-    pin_b: GPIO12
-    pin_c: GPIO15
-    pin_d: GPIO01
-    max_speed: 1000 steps/s
+    pin_a: 12
+    pin_b: 16
+    pin_c: 01
+    pin_d: 15
+    max_speed: 250 steps/s
 
     # Optional:
     acceleration: inf
     deceleration: inf
-    step_mode: "HALF_STEP"
+    sleep_when_done: true
+    step_mode: WAVE_DRIVE
+
+switch:
+  - platform: gpio
+    pin: 02
+    id: red_pin
+
+  - platform: template
+    name: "Toggle_Position_Up"
+    turn_on_action:
+      - stepper.report_position:
+          id: my_stepper
+          position: 0
+      - stepper.set_target:
+          id: my_stepper
+          target: -200
+
+  - platform: template
+    name: "Toggle_Position_Down"
+    turn_on_action:
+      - stepper.report_position:
+          id: my_stepper
+          position: 0
+      - stepper.set_target:
+          id: my_stepper
+          target: 200    
 ```
+
+# 3D Printed models
+Housing: https://www.thingiverse.com/thing:1371349
+Husing 90": https://www.thingiverse.com/thing:3593641
+Chain connector: https://www.thingiverse.com/thing:1174117
+Cog (gear): https://www.thingiverse.com/thing:3586583
+
 
 [similar-issue]: https://github.com/esphome/feature-requests/issues/48
 [belgianlink]: http://www.jangeox.be/2013/10/change-unipolar-28byj-48-to-bipolar.html
+[explanation]: https://www.engineersgarage.com/esp8266/nodemcu-and-l293d-motor-driver-controlling-dc-motor/
