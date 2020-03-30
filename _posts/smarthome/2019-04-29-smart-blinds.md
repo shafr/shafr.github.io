@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smart Blinds for Smart home"
+title:  "DIY Smart Blinds for Smart home"
 tags: [L293D, 28BYJ-48, ESP8266, EspHomeYaml]
 categories: smarthome
 ---
