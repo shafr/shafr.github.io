@@ -25,7 +25,17 @@ When
 
 `Harry Bosch` series is about depression, responsebility and decay.
 
+
+When you listen for Bosch book series one by one without big delay you start to notice pattern:
+
+* always under preassure (court, building demolition, journalists)
+* there is always woman (often victim's wife)
+* when you think that finally case was solved - there is one more thing. Very Often it is very unexpected.
+
+
 ### Some acronyms that are used there
 
 IAD
 DEA
+
+swag - scientific wild ass guess
