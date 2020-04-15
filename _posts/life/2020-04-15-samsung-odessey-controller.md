@@ -9,8 +9,8 @@ So suddenly during my game of Half-Life ALYX (which is OK and stunning looking, 
 
 Aparently only 2 people in the world own WMR controllers and had to dissasemble it. 
 
-[English Version][https://www.youtube.com/watch?v=rh5C3IlaQ0g]
-[Russian Version][https://www.youtube.com/watch?v=lj3eiP_QI8A]
+[English Version][yu-en]
+[Russian Version][yu-ru]
 
 Note how everyone is telling - gently pull joystick untill top part comes out. 
 
@@ -30,7 +30,7 @@ See photos below, maybe they would help
 # Replacement parts
 If you would need new thumbpad-joysticky thing - i found exact one on Aliexpress:
 
-[2PCS For XBox One Original 3D Analog Joystick Module Thumbstick Replacement For PS4 PS 4 Controller][https://www.aliexpress.com/item/32859369585.html?spm=a2g0s.9042311.0.0.3a444c4d1Hn3Lz]
+[2PCS For XBox One Original 3D Analog Joystick Module Thumbstick Replacement For PS4 PS 4 Controller][ali]
 
 
 Actually they all look the same in terms of contacts, so replacement should not be hard to find.
@@ -50,11 +50,6 @@ Actually they all look the same in terms of contacts, so replacement should not 
 | Side view              | ![](/assets/2020-04-15/pcb-3.jpg) |
 
 
-
-
-
-
-
-
-
-
+[ali]: https://www.aliexpress.com/item/32859369585.html?spm=a2g0s.9042311.0.0.3a444c4d1Hn3Lz
+[yu-en]: https://www.youtube.com/watch?v=rh5C3IlaQ0g
+[yu-ru]: https://www.youtube.com/watch?v=lj3eiP_QI8A
