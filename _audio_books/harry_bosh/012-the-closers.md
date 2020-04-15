@@ -10,7 +10,7 @@ tags: ["detective", "action", "thriller"]
 authors: ["Michael Connelly"]
 narrator: ["John Chancer"]
 publisher: ["Time Warner Publishing, Inc"]
-length: 11H 44M
+length: 12H 00M
 
 image: /assets/audiobooks/harry_bosch/012_the_closers.jpg
 details_url: https://www.audible.com/pd/The-Closers-Audiobook/B00SXDWOM8
