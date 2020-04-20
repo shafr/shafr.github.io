@@ -15,15 +15,18 @@ length: 12H 32M
 image: /assets/audiobooks/harry_bosch/007_a_darkness_more_than_night.jpg
 details_url: https://www.audible.com/pd/A-Darkness-More-Than-Night-Audiobook/B00SXE0A00
 
-rating: 2
+rating: 1
 ---
 
 I forced myslef through this book, just to get done with it, and I don't want to go back. 
 It tells ex-fbi profiler routines. 
 
-Narration is not that great. Feels like a different person wrote this book.
-
 The investigations, court case that is in progress and final reveal is also very poor.
+
+The worst book I've listened too so far. It took me too much effort just to finish it. I was keeping switching between books. 
+Nothing that caught my interest - narration, plot, inside work description. Seems like completely different person wrote those. Too much water and Mondain description that i was not interested in. 
+
+Feels like a different person wrote this book.
 
 # Quotes: 
 
