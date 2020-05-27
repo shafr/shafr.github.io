@@ -3,7 +3,7 @@ layout: audiobook
 categories: audiobooks
 
 series: "Doc Ford"
-title:  "Sanbiel Flats"
+title:  "The Heat Islands"
 book: 1
 
 tags: ["adventure", "detective", "comedy"]
@@ -16,6 +16,7 @@ image: /assets/audiobooks/doc_ford/001_sanbiel_flats.jpg
 details_url: https://www.audible.com/pd/Sanibel-Flats-Audiobook/B003L8SW94
 
 rating: 5
+narration: +
 ---
 
 Another great narration by Dick Hill.
