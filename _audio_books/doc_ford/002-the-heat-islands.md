@@ -12,7 +12,7 @@ narrator: ["Dick Hill"]
 publisher: ["Tantor"]
 length: 10h 23m
 
-image: /assets/audiobooks/doc_ford/002_the_heat_islands
+image: /assets/audiobooks/doc_ford/002_the_heat_islands.jpg
 details_url: https://www.audible.com/pd/The-Heat-Islands-Audiobook/B003RCHUJ2
 
 rating: 5

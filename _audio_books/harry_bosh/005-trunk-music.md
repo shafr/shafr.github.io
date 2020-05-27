@@ -10,10 +10,10 @@ tags: ["politics", "detective", "action"]
 authors: ["Michael Connelly"]
 narrator: ["Dick Hill"]
 publisher: ["Brilliance Audio"]
-length: 
+length: 12H 41m
 
-image: /assets/audiobooks/harry_bosch/.jpg
-details_url: 
+image: /assets/audiobooks/harry_bosch/005_trunk_music.jpg
+details_url: https://www.audible.com/pd/Trunk-Music-Harry-Bosch-Series-Book-5-Audiobook/B002VAEON6
 
 rating: 4
 ---
