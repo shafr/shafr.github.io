@@ -1,0 +1,53 @@
+{% capture title-n %}
+{{ pcb.title | prepend: '. ' | prepend: n | append: " (" | append: pcb.version | append: ")" | append: ' (' | append: pcb.release_date | append: ')' }}
+{% endcapture %}
+
+{% capture pcb_path %}
+{{ "/assets/pcbs/" | append: pcb.title | replace: " ","-" | append: "/" | append: pcb.version | replace: ".","_" | }}
+{% endcapture %}
+
+<h2 id="{{ title-n | slugify }}" class="hist-title">
+  {{ title-n }}
+</h2>
+
+<div class="hist-table">
+  <table>
+    <tr>
+      <!-- <th>3D view</th> -->
+      <th>Front</th>
+      <th>Back</th>
+    </tr>
+    <tr>
+      <!-- <td><img src="{{ pcb_path | append: '/view_3d.png' }}" alt="{{ pcb.imgalt }} " width="100" height="200"></td> -->
+      <td><img src="{{ pcb_path | append: '/view_front.svg' }}" alt="{{ pcb.imgalt }} " width="100" height="200"></td>
+      <td><img src="{{ pcb_path | append: '/view_back.svg' }}" alt="{{ pcb.imgalt }} " width="100" height="200"></td>
+    </tr>
+  </table>
+</div>
+
+<div class="hist-desc">
+  {{ pcb.content }}
+</div>
+
+<div class="hist-downloads">
+  <table>
+    <tr>
+      <td>
+        <a href="{{ pcb_path | append: '/schematic.json' }}" download="{{ title-n | slugify }}-schematic.json">
+          <img src="/assets/pcbs/map-legend.png" alt="Schematic"></a>
+      </td>
+      <td>
+        <a href="{{ pcb_path | append: '/gerber.zip' }}" download="gerber.zip">
+          <img src="/assets/pcbs/chip.png" alt="Gerber"></a>
+      </td>
+      <td>
+        <a href="{{ pcb_path | append: '/pickandplace.csv' }}" download="pickandplace.csv">
+          <img src="/assets/pcbs/robot-industrial.png" alt="Pick And Place"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- <div class="hist-goup">
+  <a href="#">back to top</a>
+</div> -->

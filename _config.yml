@@ -49,8 +49,10 @@ show_drafts: false
 #   - vendor/gems/
 #   - vendor/ruby/
 
-talkyard_server_url: https://comments-for-shafr-github-io.talkyard.net/
+# talkyard_server_url: https://comments-for-shafr-github-io.talkyard.net/
 
 collections:
-  audio_books:
+   audio_books:
+      output: true
+   pcbs:
       output: true
