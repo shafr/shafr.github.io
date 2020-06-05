@@ -3,7 +3,7 @@
 {% endcapture %}
 
 {% capture pcb_path %}
-{{ "/assets/pcbs/" | append: pcb.title | replace: " ","-" | append: "/" | append: pcb.version | replace: ".","_" | }}
+{{ "/assets/pcbs/" | append: pcb.title | replace: " ","-" | append: "/" | append: pcb.version | replace: ".","_" | downcase }}
 {% endcapture %}
 
 <h2 id="{{ title-n | slugify }}" class="hist-title">
@@ -38,7 +38,7 @@
       </td>
       <td>
         <a href="{{ pcb_path | append: '/gerber.zip' }}" download="gerber.zip">
-          <img src="/assets/pcbs/chip.png" alt="Gerber"></a>
+          <img src="/assets/pcbs/robot-industrial.png" alt="Gerber"></a>
       </td>
       <td>
         <a href="{{ pcb_path | append: '/pickandplace.csv' }}" download="pickandplace.csv">
