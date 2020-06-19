@@ -10,7 +10,7 @@ components: [esp8266, XB3303A, TLV70033, WS2812B]
 Although I was working with linear voltage regulators before (using AMS1117) - for USB use, 
 I wanted to make another device that would work with 18650 LIPO battery, and would use 3.3V. 
 And this device should have as less fragile components as possible.
-See [discussion](discussion) on choosing specific chip.
+See [discussion on stackexchange](discussion) on choosing specific chip.
 
 This is also my first experiment device with lipo protection - initially I was using `FS312F-G`, but it requires also external mosfet, has 6 pins and is much easier to mess up. (And also is external device, so costs money to assemble). I was vary happy with `XB3303A` chip that is tiny, has only 3 pins and does not require much external components.
 
