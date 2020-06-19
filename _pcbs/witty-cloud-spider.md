@@ -31,7 +31,7 @@ Changes in 2.0:
 * Added separate plane under AMS1117
 
 Changes in 1.0:
-* My first revision of the board, failed one. I've messed up mandatory pins and spent a lot of time trying to fix it. See [that](fixing)
+* My first revision of the board, failed one. I've messed up mandatory pins and spent a lot of time trying to fix it. See [that][fixing]
 
 
 
