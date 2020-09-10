@@ -19,7 +19,7 @@ rating: 2
 ### Pros:
 
 * Great concept - final space flight, cosmonauts and stuff
-* Some historical insights and some techincal details that are not tiring.
+* Some historical insights and some technical details that are not tiring.
 * Space guys 
 
 ### Cons:

@@ -18,11 +18,11 @@ details_url: https://www.audible.com/pd/Black-4-Novel-Bundle-Audiobook/B07DTK91Z
 rating: 3
 ---
 
-Strangelly enough that all action-oriented and sci-fi, zombies-around books - R.C. Bray would take a female-oriented romance.
+Strangely enough that all action-oriented and sci-fi, zombies-around books - R.C. Bray would take a female-oriented romance.
 
-I wasn't able to follow what was going on there. I was too anoyed with secretary attitude. Ok to pass the time because of jokes and time passing. 
+I wasn't able to follow what was going on there. I was too annoyed with secretary attitude. Ok to pass the time because of jokes and time passing. 
 
-Special piece of art was conversation with barista about cofee ordering.
+Special piece of art was conversation with barista about coffee ordering.
 
 # Quotes: 
 
@@ -39,7 +39,7 @@ Special piece of art was conversation with barista about cofee ordering.
 > You can’t make the world perfect, Black. It’s always been a messy bowl of crap, and always will be. Take it from a guy who’s spent his life scooping it up after the fan sprays it everywhere. Take the wins when you get ’em, because you’re gonna have more losses than wins in the end. If you aren’t losing, you aren’t trying.
 
 
-I'll also include my favorite part about cofee ordering routine here, because how awesome it is:
+I'll also include my favorite part about coffee ordering routine here, because how awesome it is:
 
 ```
 The woman in front of him approached the counter and issued an elaborate order involving Italian adjectives, 

@@ -19,7 +19,7 @@ rating: 4
 
 Perfect example of Sci-fi detective  as it should be - without annoyances.
 
-Great ammount of humor, not-a-superhero main character, cybernetics and technologies. 
+Great amount of humor, not-a-superhero main character, cybernetics and technologies. 
 
 Lots of detective work. Lots of action. Nice plot.
 
@@ -34,7 +34,7 @@ P.S. When I found out that second book was released, i've revisited this one. St
 
 > Reacting means your enemy is dictating what you should do. And that is never good.
 
-> I've never been a particullary good luck for those around me. We won some fights, sure, but I've lost people. So many, that I could not name them without the list I've kept laminated on a card in my pocket. I needed to add five soldiers from my last trip to CAPA. They hadn't been  under my command but I still was responsible, at least in my mind.      
+> I've never been a particularly good luck for those around me. We won some fights, sure, but I've lost people. So many, that I could not name them without the list I've kept laminated on a card in my pocket. I needed to add five soldiers from my last trip to CAPA. They hadn't been  under my command but I still was responsible, at least in my mind.      
 
 > That didn't make it right for us to attack them. But there were more than one right. And I always picked the right  which helped our side. 
 

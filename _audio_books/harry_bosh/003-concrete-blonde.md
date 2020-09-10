@@ -25,4 +25,4 @@ Again author's description of live in LA looks decay.
 And again there is extra pressure coming from court case.
 
 Pros:
-* I enjoyed decription of flow of court, dirty tricks that are used to win a case.
+* I enjoyed description of flow of court, dirty tricks that are used to win a case.

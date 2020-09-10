@@ -13,11 +13,11 @@ rating: 3
 ---
 
 A story about hackers and chasing them.
-Parallel storytelling with US and Chaina plots.
+Parallel storytelling with US and China plots.
 Not the most memorable book.
 
 # Quotes: 
 
-> Mickey looked around the square. People were sitting on benches and sipping coffee and having early launch. Most of them also hoped to strike it reach, but most would not. It was a myth that there were easy pickings to be made on city streets paved with gold. The guilded man like Chrispan were few and far between.
+> Mickey looked around the square. People were sitting on benches and sipping coffee and having early launch. Most of them also hoped to strike it reach, but most would not. It was a myth that there were easy pickings to be made on city streets paved with gold. The guiled man like Chrispan were few and far between.
 
-> The general reserved section of restaraut just for two of them, and Way had to deflect inquisitive stares from the other diners, who were mostly worst kind of two houl businessman - newly reach but illmanered and tastless.
+> The general reserved section of restaurant just for two of them, and Way had to deflect inquisitive stares from the other diners, who were mostly worst kind of two houl businessman - newly reach but ilmanered and tasteless.

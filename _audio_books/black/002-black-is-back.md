@@ -20,7 +20,7 @@ rating: 4
 
 This one is better then the previous.
 Rappers & music industry, more (funnier) jokes, another meeting with Barista.
-Vodoo stuff, unpleasant neiborhoods, shooting.
+Voodoo stuff, unpleasant neighborhoods, shooting.
 
 # Quotes:
 

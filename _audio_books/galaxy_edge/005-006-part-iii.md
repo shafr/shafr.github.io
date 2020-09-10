@@ -18,7 +18,7 @@ details_url: https://www.audible.com/pd/Galaxys-Edge-Part-III-Audiobook/B07FSVCJ
 rating: 
 ---
 
-I'm really not sure about orgins of Galaxy's Edge, but it seems like they are trying to build universe more and more here.
+I'm really not sure about origins of Galaxy's Edge, but it seems like they are trying to build universe more and more here.
 There are quite a few parallel plots going on, lot's of stuff unexplained (like robot-race), savage wars, nether-ops, dark-ops, etc, that I feel more and more that I need a some wiki page along to understand what's going on.
 
 Anyway, they are done with meaningless space fights, and Dart-Wader stuff from previous book, and are now to journey for some stuff. Again Han-Solo (Wraith), some Force-stuff (Prisma), some cyber-ghosts (Ravi).
@@ -31,7 +31,7 @@ I think the problem of this 9-part series of the books that you totally forget a
 
 # Quotes:
 
-> There is a terrifiying point at war where you comprehend just how much of your survival depends on the luck.
+> There is a terrifying point at war where you comprehend just how much of your survival depends on the luck.
 
 > And I realized that if he could get dusted like this than no amount of training can save you when the time came. The blast that killed Life was from a rifle that our armor  was fully capable of deflecting. If Life didn't loose his helmet, if I walked out first, if Life was few inches shorter, if any of those things, Life is still alive at the end of that day. But his luck ran out. It doesn't matter how good you are. You can be the perfect soldier, but if it's your time - you are dead, no arbitration hearing. 
 

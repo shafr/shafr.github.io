@@ -21,7 +21,7 @@ rating: 5
 
 Another great book bout submariner's (and not only) life.
 
-They do not stop surprising me, and due to the lenght of the book, did not became boring.
+They do not stop surprising me, and due to the length of the book, did not became boring.
 
 I hate when book spends 1/3 of a time recalling what happened in previous books, but this one did just great with a small number of reminders.
 

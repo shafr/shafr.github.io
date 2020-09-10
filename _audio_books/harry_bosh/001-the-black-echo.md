@@ -29,7 +29,7 @@ Pros:
 
 Cons:
 * goons from IAD - I assume there should be some extra tension, but not sure if they were necessary. 
-* unecessary love story - this time FBI agent. Probably he need to prove manly enough by author.
+* unnecessary love story - this time FBI agent. Probably he need to prove manly enough by author.
 
 # Quotes:
 > Harry was not a big man. He stood a few inches short of six feet and was built lean. The newspapers, when they described him, called him wiry.
@@ -38,7 +38,7 @@ Cons:
 
 > (war friends) You know him good?. Not really. About as well as anybody got to know somebody there. You learned to trust people with your life, then when it's over you realize you didn't really even know most of them.
 
-> (homocide division) People are dying to meet us
+> (homicide division) People are dying to meet us
 
 > Sepulveda, like most of the suburban communities within Los Angeles, had both good and bad neighborhoods. Bosch wasn't expecting trimmed lawns and curbs lined with Volvos on Meadows's street, and he wasn't disappointed. The apartments were at least a decade past being attractive. There were bars over the windows of the bottom units and graffiti on every garage door. The sharp smell of the brewery on Roscoe wafted into the neighborhood. The place smelled like a 4 A.M. bar.
 

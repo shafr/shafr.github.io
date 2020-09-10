@@ -18,7 +18,7 @@ details_url: https://www.audible.com/pd/A-Darkness-More-Than-Night-Audiobook/B00
 rating: 1
 ---
 
-I forced myslef through this book, just to get done with it, and I don't want to go back. 
+I forced myself through this book, just to get done with it, and I don't want to go back. 
 It tells ex-fbi profiler routines. 
 
 The investigations, court case that is in progress and final reveal is also very poor.

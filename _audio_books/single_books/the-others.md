@@ -14,7 +14,7 @@ rating: 3
 
 Great example on how not to start the book. If you would skip first 5 minutes and just begin from detective story it would be much better. But i'm glad that i forced myself through that part.
 
-It's a nicely written detective / action story (kind of stereotipical and trying to satisfy all ethnic groups), with fair amount of humour.
+It's a nicely written detective / action story (kind of stereotypical and trying to satisfy all ethnic groups), with fair amount of humour.
 
 But then the paranormal stuff comes... I would not say i'm a big fan of those.
 

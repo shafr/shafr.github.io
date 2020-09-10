@@ -21,11 +21,11 @@ narration: +
 
 Another great narration by Dick Hill.
 
-Like Atlas Shrugged, I was not really sure up untill first few hours what is going on and where are they going with this book. 
+Like Atlas Shrugged, I was not really sure up until first few hours what is going on and where are they going with this book. 
 
-I've started my Doc Ford aquaintenance from a third book, probably there was some context which would help me with the book.
+I've started my Doc Ford acquaintance from a third book, probably there was some context which would help me with the book.
 
-Great personalities and performances. Intersting plot twists.
+Great personalities and performances. Interesting plot twists.
 
 Compared to first two books it has different pacing and style of narration, I would say it's more comedy than detective or adventure, more description of personalities than events.
 

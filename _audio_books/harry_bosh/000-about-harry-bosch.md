@@ -19,16 +19,16 @@ rating: 0
 
 When 
 
-`Jack reacher` is about toughness and kicking ass and dissapearing, 
+`Jack reacher` is about toughness and kicking ass and disappearing, 
 
 `Black` is about comedy and having fun
 
-`Harry Bosch` series is about depression, responsebility and decay.
+`Harry Bosch` series is about depression, responsibility and decay.
 
 
 When you listen for Bosch book series one by one without big delay you start to notice pattern:
 
-* always under preassure (court, building demolition, journalists)
+* always under pressure (court, building demolition, journalists)
 * there is always woman (often victim's wife)
 * when you think that finally case was solved - there is one more thing. Very Often it is very unexpected.
 

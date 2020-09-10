@@ -27,8 +27,8 @@ Pros:
 * Finally we get to know about Rechs, Goth Soles, and other guys.
 
 Cons:
-* I really hate space combats sections in this books - they are really boring and exausing. 
-* You really wish to stop reading book few times, so much I was exausted and tired from the deus-ex machinas moments.
+* I really hate space combats sections in this books - they are really boring and exhausting. 
+* You really wish to stop reading book few times, so much I was exhausting and tired from the deus-ex machinas moments.
 
 # Quotes:
 

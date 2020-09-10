@@ -22,11 +22,11 @@ rating: 3
 
 Black is hired on the job where people start dying around him. Seems to be some kind of pattern there. (Or in all of his books ?)
 
-Pretty much like previous Black's book, but instead of Rappers it's Modeling business. Being completelly outside of that domain it is interesting to see what's going on there.
+Pretty much like previous Black's book, but instead of Rappers it's Modeling business. Being completely outside of that domain it is interesting to see what's going on there.
 
-A little bit of everything - fighing with secretary, talking to cop-friend Sam, talking to parents, drinking.
+A little bit of everything - fighting with secretary, talking to cop-friend Sam, talking to parents, drinking.
 
-Probably author had found some formual for successful writing which works and gets books sold.
+Probably author had found some formula for successful writing which works and gets books sold.
 
 # Quotes:
 

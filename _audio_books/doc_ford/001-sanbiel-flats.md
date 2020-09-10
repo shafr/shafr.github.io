@@ -26,7 +26,7 @@ this book is about him, telling us not much about his history but his character.
 
 Doc ford is like Jack Reacher but with a PHD, wearing glasses, being smart and avoiding fights. Not a impulsive ask questions later, not a lonely warrior who always travels, but opposite. Not as much stress.
 
-Adventures around the world, investigation of a friend murder, guerila tactics.
+Adventures around the world, investigation of a friend murder, guerilla tactics.
 
 A ok book.
 

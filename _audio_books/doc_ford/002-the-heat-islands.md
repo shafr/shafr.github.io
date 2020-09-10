@@ -19,8 +19,8 @@ rating: 5
 narration: +
 ---
 
-Getting fit with a <spoiler>lesbian</spoiler> tenis player.
-Ford is chasing serial psych-maniac killer and inverstigating corruption around the islands. Fun to lisen, some tension.
+Getting fit with a <spoiler>lesbian</spoiler> tennis player.
+Ford is chasing serial psych-maniac killer and investigating corruption around the islands. Fun to listen, some tension.
 
 
 # Quotes: 

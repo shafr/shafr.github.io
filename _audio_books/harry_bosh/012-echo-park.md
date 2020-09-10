@@ -19,4 +19,4 @@ rating: 4
 
 Interesting and tense book up util it gets situational. 
 
-At this time Bosch is shown as arogant, impulsive, revengfull person who acts first and asks questions later. I would say that my sympathies are on Bosch side, but they are not.
+At this time Bosch is shown as arrogant, impulsive, revengeful person who acts first and asks questions later. I would say that my sympathies are on Bosch side, but they are not.

@@ -19,13 +19,13 @@ rating: 4
 ---
 
 Where Jack Reacher was just kicking everyone and silently disposing bodies this book raises many topics:
- - political topics -  how people would react on this event. Killer should be found or city will burn in flames. Someone should be blamed or people would be unrestfull. 
+ - political topics -  how people would react on this event. Killer should be found or city will burn in flames. Someone should be blamed or people would be unrestful. 
  - You must follow protocols. And then get sued by guilty people because they can.
  - You must attend press conferences
- - Every shot should be acounted for
+ - Every shot should be accounted for
  - Family relations and divorces
 
-Written shortly (or not much) after events from 1992 riots in San Francisco this book is deeply influecned by them.
+Written shortly (or not much) after events from 1992 riots in San Francisco this book is deeply influenced by them.
 
 But the part of the book that is technology-related have aged so much:
 * cell phone in cars

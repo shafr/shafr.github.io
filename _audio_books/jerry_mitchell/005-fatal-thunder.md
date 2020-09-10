@@ -21,4 +21,6 @@ This book is all politics and no action. As author said in prologue - we ran out
 
 This one references all previous books but does not brings anything interesting.
 
-I've stopped listening few hours in.
+Everyone keeps telling everyone else about `conspiracy`, and it's becoming tiresome.
+
+Too much water for a submarine book. 

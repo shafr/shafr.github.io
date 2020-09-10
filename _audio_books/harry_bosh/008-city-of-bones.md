@@ -22,7 +22,7 @@ Not the best narration.
 
 Bosch is back researching million year old case. 
 
-Not packed with action and tension, just barelly moving on.
+Not packed with action and tension, just barely moving on.
 
 Not the best time spender, but it can be worse still.
 

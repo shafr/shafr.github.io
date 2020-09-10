@@ -20,13 +20,13 @@ rating: 5
 
 That is straight all-that-you-can-imagine submarine-related stuff. 
 
-Team working in tight quaters, commander that has iron nerves and his hands does not shake, fearless enemies. 
+Team working in tight quarters, commander that has iron nerves and his hands does not shake, fearless enemies. 
 
 Interesting description of day-to-day life of crew and details of work of huge steel machine.
 
 Great examples of how real teams should work and that result depends on the output of each team member.
 
-Also great description of captain feelings and preasure that they are under.
+Also great description of captain feelings and pressure that they are under.
 
 Not a lot `Deus Ex Machina's` that appear in the last moment and save everyone
 

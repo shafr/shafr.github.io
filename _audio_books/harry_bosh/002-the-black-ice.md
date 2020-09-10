@@ -29,7 +29,7 @@ Pros:
 
 Cons:
 * Unnecessary love story (twice). Probably it's important for next books and for showing that hi is not psycho. Or showing that he can find quiet place finally with someone.
-* Preassure from DEA guys (when on the first book it was IAD guys), which creates tension.
+* Pressure from DEA guys (when on the first book it was IAD guys), which creates tension.
 
 # Quotes:
 

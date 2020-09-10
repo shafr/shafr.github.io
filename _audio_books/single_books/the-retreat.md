@@ -14,7 +14,7 @@ rating: 4
 
 Not the best military book, not the best thriller, but has some action and original plot.
 
-So instead of zombies there are a clowns - people who want to infect other people and laught when they get pain.
+So instead of zombies there are a clowns - people who want to infect other people and laugh when they get pain.
 
 Lot's of gore, human parts, and scenes of death or destruction. 
 

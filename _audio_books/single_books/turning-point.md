@@ -11,7 +11,7 @@ image: /assets/audiobooks/turning_point.jpg
 details_url: https://www.audible.com/series/Turning-Point-Audiobooks/B07F8FWB42
 ---
 
-Again zombies, again fighting them. Aliens, zombie hords, etc...
+Again zombies, again fighting them. Aliens, zombie hordes, etc...
 
 ## A Time to Die
 

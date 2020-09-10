@@ -20,7 +20,7 @@ rating: 3
 
 Parallel story about fighting squad on the edge of the galaxy.
 
-This series are now staring to be like `Romance novels` with simple or no major twists, just a small ammount of extra unviverse story, with forgettable characters, some ammount of romance, lots of shooting.
+This series are now staring to be like `Romance novels` with simple or no major twists, just a small amount of extra universe story, with forgettable characters, some amount of romance, lots of shooting.
 
 Just a books for passing by while waiting for major releases.
 Rating: 3/5

@@ -19,7 +19,7 @@ rating: 4
 ---
 
 Bosch is chasing his mother's killers while being on leave. This time big chunk of the book he spends with psychiatrist. I would not say that I enjoyed this part much. Great twists, but i'm getting tired of those.
-Also great descriptio of Las Vegas and undercover work. Great Naration by Dick Hill.
+Also great description of Las Vegas and undercover work. Great Narration by Dick Hill.
 
 
 # Quotes: 
