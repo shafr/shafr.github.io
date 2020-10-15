@@ -111,6 +111,7 @@ switch:
 # 3D Printed models
 * Housing: https://www.thingiverse.com/thing:1371349
 * Husing 90": https://www.thingiverse.com/thing:3593641
+* Even better housing: https://www.thingiverse.com/thing:3923529
 * Chain connector: https://www.thingiverse.com/thing:1174117
 * Cog (gear): https://www.thingiverse.com/thing:3586583
 
