@@ -28,3 +28,38 @@ So in order to use this pins you should set `X_HARWARE_SERIAL` as corresponding 
 ![Serial Mapping](/assets/2018-12-29/RX_TX_MKS_GEN_L.jpg)
 
 [article]: https://www.instructables.com/id/UART-This-Serial-Control-of-Stepper-Motors-With-th/
+
+| TFT Pin | Pin Name        | Node MCU (Wemos) Pin | Tasmota Config |
+| ------- | --------------- | -------------------- | -------------- |
+| RST     | Reset           | RST                  | ----           |
+| CE      | chip select     | D8 (GPIO 15)         | SPI CS (66)    |
+| DC      | Data/Command    | D0 (GPIO 16)         | SPI DC (67)    |
+| Din     | Serial Data In  | D7 (GPIO 13)         | ----           |
+| Clk     | Serial Clock    | D5 (GPIO 14)         | ----           |
+| Vcc     | 3.3 voltage     | 3.3V                 | ----           |
+| BL      | Backlight, 3.3V | D2 (GPIO 04)         | Backlight (68) |
+| GND     | Ground          | Ground               | ----           |
+
+
+
+# Current motor configuration
+| Axis | Driver  | Mode | Vref Value | Steps |
+| ---- | ------- | ---- | ---------- | ----- |
+| X    | DRV8825 | 1/16 | 0.5        | 100   |
+| Y    | TMC2208 | 1/16 |            | 100   |
+| E1   | TMC2130 | 1/16 |            | 100   |
+| Z1Z2 | TMC2208 | 1/16 |            | 100   |
+
+
+
+| Count | Component              | Price $ | Link                                             |     |
+| ----- | ---------------------- | ------- | ------------------------------------------------ | --- |
+| 1     | ESP8266                | 1.39    | https://www.aliexpress.com/item/32633529267.html |     |
+| 100   | 1K 0603 resistors      | 0.75    | https://www.aliexpress.com/item/32847135098.html |     |
+| 50    | ceramic capactior      | 2.20    | https://www.aliexpress.com/item/32943454441.html |     |
+| 10    | esp12f adapter board   | 1.23    | https://www.aliexpress.com/item/32721385289.html |     |
+| 10    | 9v connector           | 0.59    | https://www.aliexpress.com/item/32876984714.html |     |
+| 50    | 3.3v voltage regulator | 1.01    | https://www.aliexpress.com/item/32910803907.html |     |
+| 50    | 5v voltage regulator   | 1.42    | https://www.aliexpress.com/item/32821350559.html |     |
+| 10    | motor connector        | 1.50    | https://www.aliexpress.com/item/32911598577.html |     |
+| 1     | 28byj-48 motors        | 1.50    | https://www.aliexpress.com/item/32896006818.html |     |
