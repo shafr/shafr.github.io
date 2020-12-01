@@ -5,6 +5,24 @@ tags: [tablet, android]
 categories: life
 ---
 
+# TLDR - My choise - summer 2020
+I've ended up choosing `Teclast X4` tablet. 
+
+Pros:
+* Specs 4 Core, 8 GB ram, 
+* M.2 SSD with 256 GB space. Replacable with 1 screw!
+* Touch sceen, dockable keyboard, 5GHZ wifi
+* Battery life
+* Windows & Linux & Android
+* Weight
+* Metal case, no fans
+* Hinge on back side so it's easy to stand it in any position
+
+Cons:
+* Keyboard and touchpad. Unresponsive and small.
+* GPU: not may games can run even on min config
+
+
 
 # 10 inch tablets
 All listed below have:
