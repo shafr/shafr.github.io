@@ -3,10 +3,6 @@ layout: default
 comments: true
 ---
 
-<div class="imageThumbnail">
-  <a href="{{ page.details_url }}"><img src="{{ page.image }}" width="250" height="250" /></a>
-</div>
-
 {% assign ratingEmojis = "🌑🌑🌑🌑🌑" %}
 {% case page.rating %}
 {% when 1 %}
@@ -23,18 +19,28 @@ comments: true
 {% assign ratingEmojis = "🌑🌑🌑🌑🌑" %}
 {% endcase %}
 
-<div class="ratingEmojis"> {{ ratingEmojis }} </div>
+<div class="d-flex flex-row flex-nowrap">
+  <div class="d-flex flex-column">
+    <a href="{{ page.details_url }}"><img src="{{ page.image }}" width="250" height="250" /></a>
+  </div>
 
-<small><b>Authors:</b> <em>{{ page.authors | join: "</em>, <em>" }}</em></small><br>
-<small><b>Narrator:</b> {{ page.narrator }}</small><br>
-<small><b>Duration:</b> {{ page.length }}</small><br>
+  <div class="d-flex flex-column align-self-center ms-4">
+    <h2>{{ page.title }}</h2>
 
-<h1>{{ page.title }}</h1>
+    <small><b>Authors:</b> <em>{{ page.authors | join: "</em>, <em>" }}</em></small><br>
+    <small><b>Narrator:</b> {{ page.narrator }}</small><br>
+    <small><b>Duration:</b> {{ page.length }}</small><br>
+    <small><b>My Rating:</b> {{ ratingEmojis }}</small><br>
+    {% if page.tags %}
+    <small><b>Tags:</b> <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+    {% endif %}
+  </div>
+</div>
+
+<hr class="dashed">
+
+<br>
 
 {{content}}
 
 {% include comments.html %}
-
-{% if page.tags %}
-<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
