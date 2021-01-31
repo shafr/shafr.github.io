@@ -32,7 +32,7 @@ Not a lot `Deus Ex Machina's` that appear in the last moment and save everyone
 
 Rare book that does not feel like a scenario for a movie with a plot twists for a common viewer.
 
-# Quotes:
+{% contentfor quotes %}
 
 > He'd learned that destiny isn't something that you've reached, it was a path. A path defined by choices, directed by strategy and ultimately decided by a luck of a draw.
 
@@ -45,3 +45,5 @@ Rare book that does not feel like a scenario for a movie with a plot twists for 
 > Cooper defined heroes as a hothead who haven't yet learned about his mortality. Hothead who got lucky and who's luck would one day run out with accordance with a laws of probability.
 
 > In his mind he've built the Japaneses as archvilans with super-human capabilities.... Was just a typical young man doing his duty to his country - wright or wring. In the end however, whatever mutual understanding they'd achieved meant nothing - they remained trapped in the parts they played in this war. They never stopped being enemies.
+
+{% endcontentfor %}

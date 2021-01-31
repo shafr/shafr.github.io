@@ -21,7 +21,8 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "github-pages"
-  gem 'jekyll_picture_tag', ~> '1'  
+  gem 'jekyll_picture_tag'
+  gem 'jekyll-contentblocks'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
