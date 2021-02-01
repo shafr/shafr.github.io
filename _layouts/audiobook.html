@@ -3,6 +3,8 @@ layout: default
 comments: true
 ---
 
+<link rel="stylesheet" href="/assets/css/quotes.css">
+
 {% assign ratingEmojis = "🌑🌑🌑🌑🌑" %}
 {% case page.rating %}
 {% when 1 %}
@@ -39,11 +41,7 @@ comments: true
 
 <hr class="dashed">
 
-<br>
-
 {{content}}
-
-<hr class="dashed">
 
 {% ifhascontent quotes %}
 

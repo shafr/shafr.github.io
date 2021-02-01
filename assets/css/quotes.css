@@ -1,0 +1,25 @@
+blockquote {
+    /* border: 2px solid rgb(16, 196, 202); */
+    /* background-color: rgb(255, 255, 0); */
+    /* color: #63c0f5; */
+    font-family: 'Courier';
+    
+    width: 45%;
+    height: auto;
+    box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    float: left;
+    margin: 8px;
+    border: 1px solid rgba(0,0,0,.25);
+}
+
+blockquote p {
+    padding: 15px;
+    border-radius: 5px;
+}
+
+blockquote p:first-of-type::first-letter {
+    font-weight: bold;
+    font-size: 150%;
+}
