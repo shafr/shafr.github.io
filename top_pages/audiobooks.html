@@ -11,6 +11,7 @@ Here are some of my thoughts on the one that I've listened to and some quotes or
 
 {% assign series = site.audio_books | group_by: 'series' %}
 
+<div id="audiobook_series"> 
 {% for serie in series  %}  
 	{% if serie.name != empty  %}
 
@@ -25,8 +26,11 @@ Here are some of my thoughts on the one that I've listened to and some quotes or
 	
 	
 {% endfor %}
+</div>
 
 <br>
+
+<div id="audiobook_standalone">
 <h2> Books without series </h2>
 {% for serie in series  %}  
 	{% if serie.name == empty  %}
@@ -36,3 +40,4 @@ Here are some of my thoughts on the one that I've listened to and some quotes or
 	
 	{% endif %}	
 {% endfor %}
+</div>
