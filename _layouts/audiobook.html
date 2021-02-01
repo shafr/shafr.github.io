@@ -43,14 +43,4 @@ comments: true
 
 {{content}}
 
-{% ifhascontent quotes %}
-
-<h1> Quotes </h1>
-
-<div class="quotes">
-  {% contentblock quotes %}
-</div>
-
-{% endifhascontent %}
-
 {% include comments.html %}
