@@ -4,7 +4,7 @@ categories: audiobooks
 
 series: "Planetside"
 title:  "Spaceside"
-book: 7
+book: 1
 
 tags: ["sci-fi", "detective", "action"]
 authors: ["Michael Mammay"]
