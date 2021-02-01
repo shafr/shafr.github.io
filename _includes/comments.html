@@ -52,11 +52,12 @@
     }
     request.send();
     </script>
-    
+
+{% if page.comments_id != nil %}
     <hr>
     
     <div class="github-comments" id="github-comments">
-        {% if page.comments_id != nil %}
+        
             {% if page.comments_id != blank %}
                 <h3>Comments</h2>
                 <ul id="gh-comments-list"></ul>
@@ -64,5 +65,7 @@
                     <a href="https://github.com/shafr/shafr.github.io/issues/{{ page.comments_id }}">this ticket</a>.
                     Comments appear on this page instantly.</p>
             {% endif %}                
-        {% endif %}
+        
     </div>
+
+{% endif %}
