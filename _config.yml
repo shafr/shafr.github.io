@@ -17,7 +17,7 @@ title: DIMI's place
 description: >- # this means to ignore newlines until "baseurl:"
   My thoughts on different things
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shafr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dimi_shaf
 github_username:  shafr
 github.owner_name: Dmitriy
