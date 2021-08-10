@@ -51,20 +51,24 @@ First I tried downloading & searching apk files inside firmware from Samsung S3,
 That's when I had to buy Samsung S3 to figure it out. After buying one & installing Samsung Store from .apk - (since old one had expired certificates & phone refused to open any aps pages) - I've installed `Drive Link` application.
 
 After that installation 2 applications had appear:
-* __TMServerApp.apk__ inside /sys/app
-* __app.scm.apk__ inside app
+* __TMServerApp.apk__ inside /system/app
+* __app.scm.apk__ inside /data/app
 
 Now I've installed every possible application from [4pda][4pda-apps]. After connecting usb cable to phone it starts launching drive application where you can go to navigation, choose music, etc. For some reason only Waze & Google Maps was working there.
 
-Finally I connected phone to car and DriveLink menu had appeared! I was able to launch `Google Maps` and phone screen was mirrored on display. However when going to desktop or choosing any other application, it woulds stop working.
+Finally I connected phone to car and DriveLink menu had appeared! I was able to launch `Google Maps` and phone screen was mirrored on display. 
 
-There was plenty of talks about it on 4pda and workarounds with floating windows, etc.
-
+Also 4pda contains `cracked` version of DriveLink that allows to mirror any application, even desktop. It's installed as a drop-in replacement for existing one.
 
 ```
 Firmware: Android_Revolution_HD-SGS3_53.0
 Kernel: i9300_LiteGX-KERNEL_v5.1.0_CWM.zip
 ```
+
+## Samsung A3 (Android 6.0)
+I was able to see `Car` menu on HU only once on my A3 phone with newer android - by trying different versions of TmServer & DriveLink, but it would not start properly due to some issues. Looking at android logs - it was missing libraries in /lib/arm folder.
+
+
 
 [samsung-s3-mention]: https://forum.xda-developers.com/t/mod-drivelink-mirrorlink-full-mirroring.1951960/post-72440448
 [4pda-model]: https://4pda.to/forum/index.php?act=findpost&pid=16142738&anchor=Spoil-16142738-2
