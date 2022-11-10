@@ -30,31 +30,39 @@ Also also to match ciphers with ID's [mozzila page][mozilla] is helpfull.
 ### Test code
 
 ```bash
-export HTTPS_HOST_AND_PORT="https://tas-cz-n203:8443";
+#!/bin/bash -l
+#set -x
 
-testCipherSuite(){
+colorize() { CODE=$1; shift; echo -e '\033[0;'$CODE'm'$@'\033[0m'; }
+red() { echo -e $(colorize 31 $@); }
+green() { echo -e $(colorize 32 $@); }
+yellow() { echo -e $(colorize 33 $@); }
+
+export HTTPS_HOST_AND_PORT="https://google.com/";
+
+testSuite(){
 	echo "TESTING ${1}"
 
 	shift;
-	
-	for cipher in $@; do		
+
+	for cipher in $@; do
 			curl --silent --insecure --include --output /dev/null --location "${HTTPS_HOST_AND_PORT}" --ciphers $cipher
 			local EXIT_CODE=$?
-			
+
 			case $EXIT_CODE in
-			
+
 			35) echo "${cipher} - OK";;
-			*) fail "Test Suite to fail with exit code 35" "${EXIT_CODE}" ;;
+			*) red "Test Suite to fail with exit code - ${EXIT_CODE} - on cipher $cipher" ;;
 			# https://ec.haxx.se/usingcurl/usingcurl-returns
 
 			esac
-	done 
-	
+	done
+
 	echo ""
 }
 
 testSuite "vulnerable ciphers" DES-CBC3-SHA DHE-RSA-DES-CBC3-SHA AES128-SHA DHE-RSA-AES128-SHA ECDHE-RSA-AES128-SHA ECDHE-RSA-DES-CBC3-SHA
-testSuite "tls1.1"  NULL-MD5 NULL-SHA RC4-MD5 RC4-SHA IDEA-CBC-SHA DES-CBC3-SHA DHE-DSS-DES-CBC3-SHA ...
+testSuite "tls1.1"  NULL-MD5 NULL-SHA RC4-MD5 RC4-SHA IDEA-CBC-SHA DES-CBC3-SHA DHE-DSS-DES-CBC3-SHA
 ```
 
 
