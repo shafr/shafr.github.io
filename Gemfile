@@ -21,7 +21,7 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "github-pages"
-  gem 'jekyll_picture_tag'
+  # gem 'jekyll_picture_tag'
   gem 'jekyll-contentblocks'
 end
 
@@ -34,3 +34,4 @@ gem "wdm" if Gem.win_platform?
 gem 'jekyll-theme-hacker'
 
 gem "rouge"
+gem "webrick", "~> 1.8"
