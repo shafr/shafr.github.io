@@ -1,0 +1,41 @@
+---
+layout: default
+comments: true
+---
+
+<link rel="stylesheet" href="/assets/css/quotes.css">
+
+{% assign ratingEmojis = "🌑🌑🌑🌑🌑" %}
+{% case page.rating %}
+{% when 1 %}
+{% assign ratingEmojis = "⭐🌑🌑🌑🌑" %}
+{% when 2 %}
+{% assign ratingEmojis = "⭐⭐🌑🌑🌑" %}
+{% when 3 %}
+{% assign ratingEmojis = "⭐⭐⭐🌑🌑" %}
+{% when 4 %}
+{% assign ratingEmojis = "⭐⭐⭐⭐🌑" %}
+{% when 5 %}
+{% assign ratingEmojis = "⭐⭐⭐⭐⭐" %}
+{% else %}
+{% assign ratingEmojis = "🌑🌑🌑🌑🌑" %}
+{% endcase %}
+
+<div class="d-flex flex-row flex-nowrap">
+  <div class="d-flex flex-column">
+    <a href="{{ page.details_url }}"><img src="{{ page.image }}" width="250" height="250" /></a>
+  </div>
+
+  <div class="d-flex flex-column align-self-center ms-4">
+    <h2>{{ page.title }}</h2>
+    <small><b>My Rating:</b> {{ ratingEmojis }}</small><br>
+    <small><b>Genres:</b> <em>{{ page.genres | join: "</em>, <em>" }}</em></small><br>
+    <small><b>Release Year:</b> {{ page.release_year }}</small><br>
+  </div>
+</div>
+
+<hr class="dashed">
+
+{{content}}
+
+{% include comments.html %}

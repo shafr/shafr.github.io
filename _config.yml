@@ -54,5 +54,7 @@ show_drafts: false
 collections:
    audio_books:
       output: true
+   games:
+      output: true
    pcbs:
       output: true
