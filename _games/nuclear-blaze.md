@@ -17,4 +17,8 @@ rating: 5
 
 I really like small details & tuning for the game. (like hit's before die count, water tank size, puzzles)
 
-It's like 1 hour long but worth money
+It's like 1 hour long but worth money.
+
+Graphics & music is nice. 
+
+It ends too fast so you would not get tired from mechanics or gameplay.
