@@ -18,4 +18,4 @@ TLDR:
 * You cannot legally fly sub-250 FPV drone **without permission** in center of Prague. 
 * However much tempting you should never fly near some active emergency services. ( Idea is that you'll distract ongoing activity, you can crash heli and go to jail.)
 * You'll need to get a A1(sub-250), A3(sub-25KG, cannot fly near buildings, crowds of people) drone license.
-* I really recommend going through that free course - there was a lot of stuff that I haven't though about, like cloud shapes, interference from power lines and structures, planning for winds.
+* I really recommend going through that free course - there was a lot of stuff that I haven't though about, like cloud shapes (those puffy ones mean trouble), interference from power lines and structures, planning for winds.
