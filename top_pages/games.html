@@ -1,0 +1,14 @@
+---
+layout: default
+title: Games
+permalink: /games/index.html
+description: "List of games that i've played"
+---
+
+<h2> Games i've played </h2>
+<div class="container-fluid ml-0 mr-0">
+
+{% for game in site.games  %}
+	<a href="{{ site.baseurl }} {{ game.url }}"> <img src="{{ game.image }}" alt="{{ book.book }}"  class="mt-2 mb-2 ml-3 mr-3"  width="460" height="215"/></a>
+{% endfor %}
+</div>
