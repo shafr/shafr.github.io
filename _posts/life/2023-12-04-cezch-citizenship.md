@@ -22,7 +22,7 @@ Before paying everything - check payment accounts, since it's different for each
 
 ## __Pražská správa sociálního zabezpečení__
   * free
-  * Datová Shranka, [formular](/assets/2023-12-04/CSSZ.pdf)
+  * Datová Shranka, [formular](/assets/2023-12-04/cssz.pdf)
 
 ## __Pojišťovna VZP__
   * free
