@@ -28,5 +28,7 @@ Before paying everything - check payment accounts, since it's different for each
   * free
   * email - podatelna@vzp.cz, [formular](/assets/2023-12-04/VZP.pdf)
 
-
-If you are requesting citizenship for multiple people, send each request separately.
+Notes:
+* If you are requesting citizenship for multiple people, send each request separately.
+* All this official documents that you receive are digitally signed. You'll have to print those special QR codes (that lead to storage) and bring them to post office to validate. Then scan and send.
+* At some point (around 1 year from start) you'll receive document "usneseni" where you'll be requested to re-send same fresh documents. Scroll to the very bottom - and in the lower left corner you'll find a person who is processing your application. Remember this person since you might need to contact him/her to speed things up or to clarify if something is missing.
