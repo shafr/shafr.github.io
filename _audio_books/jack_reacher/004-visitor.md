@@ -3,7 +3,7 @@ layout: audiobook
 categories: audiobooks
 
 series: "Jack Reacher"
-title:  "The Visitor"
+title:  "The Visitor aka Running Blind"
 book: 4
 
 tags: ["action", "detective"]
@@ -18,7 +18,7 @@ rating: 3
 
 ---
 
-You can skip first 90 minutes of this audiobook, as it is boring as hell and it is a pain waiting untill it will start picking up a pace.
+You can skip first 90 minutes of this audiobook, as it is boring as hell and it is a pain waiting until it will start picking up a pace.
 
 This book tells us about Richer Helping FBI to find serial killer. Lots of 'politics' and confrontation, and very few of action. FBI is prepared for everything to close the case.
 
@@ -37,8 +37,7 @@ Also it seems that this book marks period after Reacher had left army and settle
 > "No, Ernesto A. Miranda is the best friend I got," Reacher said. "Miranda versus Arizona, Supreme Court decision in June of 1966. They said his Fifth Amendment rights were infringed because the cops didn't warn him he could stay silent and get himself a lawyer."
 
 
-> (FBI vs MPS): Everybody hates everybody else. Blake said that to me. And it's true. MPs wouldn't piss on Quantico if it was on fire:
-"There was a rule of thumb, draft dodgers were the Bureau's business, and deserters were ours. Different categories, right? And we knew how to handle deserters. Some of them went to the slammer, but some of them got a little TLC. The jungle wasn't a lot of fun for the grunts, and the recruiting depots weren't exactly bulging at the seams, remember? So the MPs would calm the good ones down and send them back, but nine times out of ten the Bureau would arrest them again anyway, on the way to the airport. Drove the MPs crazy. Hoover was unbearable. It was a turf war like you never saw. Result was a perfectly reasonable guy like Leon would hardly even speak to the FBI ever again. Wouldn't take calls, didn't bust a gut answering the mail."
+> (FBI vs MPS): Everybody hates everybody else. Blake said that to me. And it's true. MPs wouldn't piss on Quantico if it was on fire: "There was a rule of thumb, draft dodgers were the Bureau's business, and deserters were ours. Different categories, right? And we knew how to handle deserters. Some of them went to the slammer, but some of them got a little TLC. The jungle wasn't a lot of fun for the grunts, and the recruiting depots weren't exactly bulging at the seams, remember? So the MPs would calm the good ones down and send them back, but nine times out of ten the Bureau would arrest them again anyway, on the way to the airport. Drove the MPs crazy. Hoover was unbearable. It was a turf war like you never saw. Result was a perfectly reasonable guy like Leon would hardly even speak to the FBI ever again. Wouldn't take calls, didn't bust a gut answering the mail."
 
 > She thought the Army was going to be all rappelling down cliffs with a knife between your teeth.
 

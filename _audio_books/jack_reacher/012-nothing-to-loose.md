@@ -38,7 +38,7 @@ I would not say that I enjoyed this book much - I did not want to come back to i
 
 > If a stair squeaked, ninety-nine times in a hundred it squeaked in the center, where it was weakest. He put his hand on the door handle and lifted. If a door squeaked, ninety-nine times in a hundred it was because it had dropped on its hinges. Upward pressure helped.
 
->  Xeric plants, or xerophilous, drought tolerant, from the Greek prefixxero-, meaning dry. Hence Xerox, for copying without wet chemicals. 
+>  Xeric plants, or xerophilous, drought tolerant, from the Greek prefixxero, meaning dry. Hence Xerox, for copying without wet chemicals. 
 
 > He had spent time in small planes, when the army had wanted him to get somewhere faster than a jeep or a train could have gotten him. He had found them small and trivial and somehow unserious. They were like flying cars. He had told himself they were better built than cars, but he hadn’t found much concrete evidence to convince himself with. Thin metal, bent and folded and riveted, flimsy clips and wires, coughing engines.
 

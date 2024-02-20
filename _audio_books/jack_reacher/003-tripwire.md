@@ -37,7 +37,7 @@ Cleaning blame for a a guy who died during Vietnamese wars and getting rid of cr
 
 > Like people she knew, lawyers or bankers, who had really wanted to be dancers or ballplayers. A dream from the past, unconnected with reality, but absolutely defining the identity of the person involved. A divorced thirty-year-old woman, who had wanted to be with Jack Reacher all along.
 
-> Bodyguarding was about defence. Start mixing offence in with it, and neither thing gets done properly.
+> Body guarding was about defense. Start mixing offense in with it, and neither thing gets done properly.
 
 > She was not an unfit woman, but she always said I'm built for comfort, not for speed. 
 
@@ -45,4 +45,4 @@ Cleaning blame for a a guy who died during Vietnamese wars and getting rid of cr
 
 > The whole point of drifting was happy passive acceptance of no alternatives. Having alternatives ruined it.
 
->  He was a meticulous man, attentive to tiny detail as much in his ethics as in his professional speciality.
+>  He was a meticulous man, attentive to tiny detail as much in his ethics as in his professional specialty.
