@@ -75,5 +75,5 @@ https://www.shieldlab.com/forum/index.php/board,3.80.html
 
 [pinout]: http://pinouts.ru/visual/gen/dsc_pclink_conn.jpg
 [software]: https://www.kelcom.cz/ke-stazeni/ezs/dls-5/
-
+[dscKeyBus]: https://github.com/taligentx/dscKeybusInterface
 
