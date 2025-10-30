@@ -11,7 +11,7 @@ Before paying everything - check payment accounts, since it's different for each
 `Podtvrezeni Bezdluhosti` places:
 
 ## __Celní úřad__ pro hlavní město Prahu (paragraph 151 for reference)
-  * Send filled in document - datova shranka `k8dny3x`,
+  * Datova shranka `k8dny3x`,
   * [formular](/assets/2023-12-04/celni-sprava.pdf)
   * 100 CZK - account `7771-67724011/0710`
   * Variabne Číslo = Rodné Číslo
@@ -22,18 +22,19 @@ Before paying everything - check payment accounts, since it's different for each
   * Variabne Číslo = Rodné Číslo
 
 ## __Pražská správa sociálního zabezpečení__
+  * Datová Shranka `hnhacvt`
   * [formular](/assets/2023-12-04/cssz.pdf)
   * Free
-  * Datová Shranka `hnhacvt`
 
 ## __Pojišťovna VZP__
   * Datová Shranka `i48ae3q` or e-mail podatelna@vzp.cz
-  * Free
   * [formular](/assets/2023-12-04/VZP.pdf)
+  * Free
 
 ## __Magistrat Pragy ( new in 2025 )__
-  * Send filled document to Datová Shranka `48ia97h`, [formular](/assets/2023-12-04/magistrat.pdf)
-  * 100 CZK- ucet `30015-5157998/6000`, not to receiver - surname
+  * Send filled document to Datová Shranka `48ia97h`
+  * [formular](/assets/2023-12-04/magistrat.pdf)
+  * 100 CZK- ucet `30015-5157998/6000`, "note to receiver" = Surname
   * Variabne Číslo = Rodné Číslo  
 
 Notes:
