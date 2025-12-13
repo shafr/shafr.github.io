@@ -1,9 +1,26 @@
+/* Style for quote section headers */
+h2 {
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 2px solid rgba(0,0,0,.25);
+    font-family: 'Courier';
+}
+
+/* Container for quote groups */
+.quote-group {
+    clear: both;
+    margin-bottom: 40px;
+    overflow: auto;
+}
+
 blockquote {
     /* border: 2px solid rgb(16, 196, 202); */
     /* background-color: rgb(255, 255, 0); */
     /* color: #63c0f5; */
     font-family: 'Courier';
-    
+
     width: 45%;
     height: auto;
     box-shadow: 0 3px 6px rgba(0,0,0,.25);

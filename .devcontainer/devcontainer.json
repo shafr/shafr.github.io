@@ -1,0 +1,36 @@
+{
+  "name": "Jekyll GitHub Pages",
+  "image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  "postCreateCommand": "bundle install && bundle exec jekyll build",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rebornix.Ruby",
+        "wingrunr21.vscode-ruby",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh"
+      }
+    }
+  },
+
+  "forwardPorts": [4000],
+
+  "portsAttributes": {
+    "4000": {
+      "label": "jekyll",
+      "onAutoForward": "notify"
+    }
+  },
+
+  "remoteUser": "vscode"
+}
