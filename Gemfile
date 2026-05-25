@@ -35,3 +35,4 @@ gem 'jekyll-theme-hacker'
 
 gem "rouge"
 gem "webrick", "~> 1.8"
+gem "faraday-retry"
